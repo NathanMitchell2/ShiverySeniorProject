@@ -1,0 +1,869 @@
+Event	ID	Name			Wwise Object Path	Notes
+	5402580	EVT_Lvl1_Elevator_Stop			\Default Work Unit\Music\EVT_Lvl1_Elevator_Stop	
+	54347557	EVT_Play_MetalAmbience			\Default Work Unit\Ambient\Environment\EVT_Play_MetalAmbience	
+	80974987	EVT_ExplosionSpell_Impact			\Default Work Unit\Player\Alchemy\Casting\EVT_ExplosionSpell_Impact	
+	103269974	EVT_LightsOut_Stop_NoDyingout			\Default Work Unit\Ambient\Environment\Lights\EVT_LightsOut_Stop_NoDyingout	
+	109575393	EVT_Dialogue_Test_Start			\Default Work Unit\Player\Voice\EVT_Dialogue_Test_Start	
+	139281458	EVT_TonicSpell_EnhancedHearing_Start			\Default Work Unit\Player\Alchemy\Casting\EVT_TonicSpell_EnhancedHearing_Start	
+	163502940	EVT_Lvl1_SurfaceMusic_Stop			\Default Work Unit\Music\EVT_Lvl1_SurfaceMusic_Stop	
+	183459905	EVT_Player_Heartbeat			\Default Work Unit\Player\EVT_Player_Heartbeat	
+	186271696	EVT_MainMenu_MusicSwitch_Stop			\Default Work Unit\UI\EVT_MainMenu_MusicSwitch_Stop	
+	190082294	EVT_Monster_Attack			\Default Work Unit\Enemies\EVT_Monster_Attack	
+	196763345	EVT_Lantern_Cast			\Default Work Unit\Player\Lantern\EVT_Lantern_Cast	
+	224159760	EVT_BreathIn			\Default Work Unit\Player\Voice\Breathing\EVT_BreathIn	
+	234162179	EVT_Play_Medium_Damage			\Default Work Unit\Player\Damage\EVT_Play_Medium_Damage	
+	264293952	EVT_Grimoire_Writing			\Default Work Unit\UI\Grimoire\EVT_Grimoire_Writing	
+	279302936	EVT_Bone_Pickup			\Default Work Unit\Player\Items\EVT_Bone_Pickup	
+	294976417	EVT_Elevator_SecondCrash			\Default Work Unit\Ambient\Environment\Elevator\EVT_Elevator_SecondCrash	
+	316535734	EVT_Monster_BehindWall			\Default Work Unit\Enemies\EVT_Monster_BehindWall	
+	336482166	EVT_Crystal_Pickup			\Default Work Unit\Player\Items\EVT_Crystal_Pickup	
+	421363900	EVT_Play_NormalMonsterSpotted			\Default Work Unit\Enemies\EVT_Play_NormalMonsterSpotted	
+	427037418	EVT_CreakyDoor			\Default Work Unit\Ambient\Environment\EVT_CreakyDoor	
+	427971785	EVT_ArcticGuitarMusic_Stop			\Default Work Unit\Music\EVT_ArcticGuitarMusic_Stop	
+	436694315	EVT_Monster_LightFootsteps			\Default Work Unit\Enemies\EVT_Monster_LightFootsteps	
+	458611180	EVT_TrapSpell_Place			\Default Work Unit\Player\Alchemy\Casting\EVT_TrapSpell_Place	
+	470943706	EVT_Stalactite_Impact			\Default Work Unit\Ambient\Environment\EVT_Stalactite_Impact	
+	480373533	EVT_Casting_SpellCircle			\Default Work Unit\Player\Alchemy\Casting\EVT_Casting_SpellCircle	
+	629482186	EVT_Letter5_01			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letter5_01	
+	629505166	EVT_KeySpell_Success			\Default Work Unit\Player\Alchemy\Casting\EVT_KeySpell_Success	
+	678273860	EVT_IceAmbience			\Default Work Unit\Ambient\Environment\EVT_IceAmbience	
+	686274632	EVT_TotemSpell_Place			\Default Work Unit\Player\Alchemy\Casting\EVT_TotemSpell_Place	
+	686298660	EVT_PauseLvlMusic			\Default Work Unit\Music\EVT_PauseLvlMusic	
+	698503508	EVT_Intro_EnterShack			\Default Work Unit\UI\Intro\EVT_Intro_EnterShack	
+	726827637	EVT_Monster_TiredBreaths			\Default Work Unit\Enemies\EVT_Monster_TiredBreaths	
+	781302152	EVT_PlayerLine_UngodlyBeast			\Default Work Unit\Player\Voice\Player Lines\EVT_PlayerLine_UngodlyBeast	
+	862762283	EVT_Letters_ResetAll			\Default Work Unit\UI\EVT_Letters_ResetAll	
+	880402559	EVT_Ash_Putdown			\Default Work Unit\Player\Items\EVT_Ash_Putdown	
+	956184566	EVT_Intro_StepsAndBreaths_Stop			\Default Work Unit\UI\Intro\EVT_Intro_StepsAndBreaths_Stop	
+	966280379	EVT_FlowingWater_Loop			\Default Work Unit\Ambient\Environment\EVT_FlowingWater_Loop	
+	1033105203	EVT_PlayerLine_MyWord			\Default Work Unit\Player\Voice\Player Lines\EVT_PlayerLine_MyWord	
+	1138659231	EVT_Bone_Putdown			\Default Work Unit\Player\Items\EVT_Bone_Putdown	
+	1154168886	EVT_FinaleMusic_Start			\Default Work Unit\Music\EVT_FinaleMusic_Start	
+	1164399557	EVT_Item_Pickup			\Default Work Unit\Player\Items\EVT_Item_Pickup	
+	1166044225	EVT_Elevator_Finish			\Default Work Unit\Ambient\Environment\Elevator\EVT_Elevator_Finish	
+	1167542984	EVT_Intro_WindStepsAndBreaths_Start			\Default Work Unit\UI\Intro\EVT_Intro_WindStepsAndBreaths_Start	
+	1176737862	EVT_Elevator_StopLoop			\Default Work Unit\Ambient\Environment\Elevator\EVT_Elevator_StopLoop	
+	1183281387	EVT_Lvl2_SurfaceMusic_Stop			\Default Work Unit\Music\EVT_Lvl2_SurfaceMusic_Stop	
+	1255539537	Break_Test			\Default Work Unit\Player\Voice\Break_Test	
+	1257229641	EVT_TrapSpell_Deactivate			\Default Work Unit\Player\Alchemy\Casting\EVT_TrapSpell_Deactivate	
+	1286898417	EVT_Grimoire_Flip			\Default Work Unit\UI\Grimoire\EVT_Grimoire_Flip	
+	1296553583	EVT_HarpsIdea_Start			\Default Work Unit\Music\EVT_HarpsIdea_Start	
+	1319279128	EVT_Letter1_Pt1			\Default Work Unit\UI\Letters\EVT_Letter1_Pt1	
+	1319279131	EVT_Letter1_Pt2			\Default Work Unit\UI\Letters\EVT_Letter1_Pt2	
+	1321042219	EVT_Reset_LPF			\Default Work Unit\UI\EVT_Reset_LPF	
+	1339377344	EVT_Letter3_01			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letter3_01	
+	1358769537	EVT_FluorescentLights_Loop			\Default Work Unit\Ambient\Environment\Lights\EVT_FluorescentLights_Loop	
+	1366675176	EVT_Inventory_Close			\Default Work Unit\UI\EVT_Inventory_Close	
+	1378552607	EVT_Elevator_FirstCrash			\Default Work Unit\Ambient\Environment\Elevator\EVT_Elevator_FirstCrash	
+	1470920072	EVT_Lvl1_Elevator_Start			\Default Work Unit\Music\EVT_Lvl1_Elevator_Start	
+	1485583183	EVT_Letter1_Pt2_01			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letter1_Pt2_01	
+	1538623065	EVT_UI_Unpause			\Default Work Unit\UI\EVT_UI_Unpause	
+	1539781093	EVT_Modifier1			\Default Work Unit\Player\Alchemy\Casting\EVT_Modifier1	
+	1539781094	EVT_Modifier2			\Default Work Unit\Player\Alchemy\Casting\EVT_Modifier2	
+	1573986172	EVT_CaveAmbience			\Default Work Unit\Ambient\Environment\EVT_CaveAmbience	
+	1590847450	EVT_Monster_SpotsPlayer			\Default Work Unit\Enemies\EVT_Monster_SpotsPlayer	
+	1591403662	EVT_PursuitLoop_Play			\Default Work Unit\Music\EVT_PursuitLoop_Play	
+	1761170446	EVT_Monster_DistantWail			\Default Work Unit\Enemies\EVT_Monster_DistantWail	
+	1827822283	EVT_Monster_Breaths			\Default Work Unit\Enemies\EVT_Monster_Breaths	
+	1834549983	EVT_Lvl2_CaveIntroMusic_Start			\Default Work Unit\Music\EVT_Lvl2_CaveIntroMusic_Start	
+	1863547240	EVT_Grimoire_Opening			\Default Work Unit\UI\Grimoire\EVT_Grimoire_Opening	
+	1868759907	EVT_PlayerLine_What			\Default Work Unit\Player\Voice\Player Lines\EVT_PlayerLine_What	
+	1883557010	EVT_Unmute_GameSounds			\Default Work Unit\UI\EVT_Unmute_GameSounds	
+	1916156119	EVT_TotemSpell_SonarHit			\Default Work Unit\Player\Alchemy\Casting\EVT_TotemSpell_SonarHit	
+	1937233784	EVT_Ash_Pickup			\Default Work Unit\Player\Items\EVT_Ash_Pickup	
+	1937609857	EVT_Monster_Wail			\Default Work Unit\Enemies\EVT_Monster_Wail	
+	1956615312	EVT_Letters_ResetAll_TEMP			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letters_ResetAll_TEMP	
+	2018064076	EVT_Inventory_Open			\Default Work Unit\UI\EVT_Inventory_Open	
+	2019873551	EVT_Monster_NormalRoar			\Default Work Unit\Enemies\EVT_Monster_NormalRoar	
+	2023981986	EVT_Play_Wind			\Default Work Unit\Ambient\Environment\EVT_Play_Wind	
+	2045508980	EVT_Plant_Putdown			\Default Work Unit\Player\Items\EVT_Plant_Putdown	
+	2065743428	EVT_Stop_Player_Heartbeat			\Default Work Unit\Player\EVT_Stop_Player_Heartbeat	
+	2087807540	EVT_Letter7_01			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letter7_01	
+	2088291790	EVT_Death_Switch			\Default Work Unit\Player\Damage\EVT_Death_Switch	
+	2091972626	EVT_Monster_Search			\Default Work Unit\Enemies\EVT_Monster_Search	
+	2124014624	EVT_Craft_SubSlot			\Default Work Unit\Player\Alchemy\Crafting\EVT_Craft_SubSlot	
+	2133531150	EVT_TrapSpell_IdleLoop_Start			\Default Work Unit\Player\Alchemy\Casting\EVT_TrapSpell_IdleLoop_Start	
+	2148353473	EVT_Letter4_01			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letter4_01	
+	2156449107	EVT_StalactiteCrumbling_Loop			\Default Work Unit\Ambient\Environment\EVT_StalactiteCrumbling_Loop	
+	2175551797	EVT_Grimoire_Closing			\Default Work Unit\UI\Grimoire\EVT_Grimoire_Closing	
+	2194950728	EVT_Player_EnterGasZone			\Default Work Unit\Player\Voice\Breathing\EVT_Player_EnterGasZone	
+	2251029384	EVT_ExplosionSpell_Projectile			\Default Work Unit\Player\Alchemy\Casting\EVT_ExplosionSpell_Projectile	
+	2256024430	EVT_Letter1_Pt1_01			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letter1_Pt1_01	
+	2267946923	EVT_TotemSpell_SonarPulse			\Default Work Unit\Player\Alchemy\Casting\EVT_TotemSpell_SonarPulse	
+	2268481914	EVT_Stop_HvacHum			\Default Work Unit\Ambient\Environment\EVT_Stop_HvacHum	
+	2307680534	EVT_Play_FireLoop			\Default Work Unit\Player\Lantern\EVT_Play_FireLoop	
+	2318698422	EVT_FinaleMusic_Stop			\Default Work Unit\Music\EVT_FinaleMusic_Stop	
+	2366497539	EVT_ArcticGuitarMusic_Play			\Default Work Unit\Music\EVT_ArcticGuitarMusic_Play	
+	2377811825	EVT_PlayerLine_Interesting			\Default Work Unit\Player\Voice\Player Lines\EVT_PlayerLine_Interesting	
+	2383859497	EVT_TutorialMusic_Stop			\Default Work Unit\Music\EVT_TutorialMusic_Stop	
+	2444081623	EVT_Play_WoodAmbience			\Default Work Unit\Ambient\Environment\EVT_Play_WoodAmbience	
+	2466461712	EVT_Grimoire_Flipthrough			\Default Work Unit\UI\Grimoire\EVT_Grimoire_Flipthrough	
+	2488250016	EVT_Item_Putdown			\Default Work Unit\Player\Items\EVT_Item_Putdown	
+	2550943416	EVT_Elevator_Start			\Default Work Unit\Ambient\Environment\Elevator\EVT_Elevator_Start	
+	2592942960	EVT_PursuitLoop_Stop			\Default Work Unit\Music\EVT_PursuitLoop_Stop	
+	2726905174	EVT_LightsOn_Start			\Default Work Unit\Ambient\Environment\Lights\EVT_LightsOn_Start	
+	2761753435	EVT_CreateWaste			\Default Work Unit\Player\Alchemy\Crafting\EVT_CreateWaste	
+	2799722238	EVT_MetalSqueak			\Default Work Unit\Ambient\Environment\EVT_MetalSqueak	
+	2803061404	EVT_Lights_Stop_Loop			\Default Work Unit\Ambient\Environment\Lights\EVT_Lights_Stop_Loop	
+	2845170342	EVT_UI_Pause			\Default Work Unit\UI\EVT_UI_Pause	
+	2853558777	EVT_Plant_Pickup			\Default Work Unit\Player\Items\EVT_Plant_Pickup	
+	2856950985	EVT_Craft_MainSlot			\Default Work Unit\Player\Alchemy\Crafting\EVT_Craft_MainSlot	
+	2858248663	EVT_Letter2_01			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letter2_01	
+	2889169457	EVT_AmbienceOneshot			\Default Work Unit\Ambient\Environment\EVT_AmbienceOneshot	
+	2901454137	EVT_Flame_Flicker			\Default Work Unit\Ambient\Environment\Lights\EVT_Flame_Flicker	
+	2909515113	EVT_TrapSpell_Trigger			\Default Work Unit\Player\Alchemy\Casting\EVT_TrapSpell_Trigger	
+	2921459858	EVT_CaveDrops			\Default Work Unit\Ambient\Environment\EVT_CaveDrops	
+	2953418691	EVT_Lantern_Burn			\Default Work Unit\Player\Lantern\EVT_Lantern_Burn	
+	2973161458	EVT_Spellcasting_Loop_Start			\Default Work Unit\Player\Alchemy\Casting\EVT_Spellcasting_Loop_Start	
+	3000618184	EVT_Monster_HeavyFootsteps			\Default Work Unit\Enemies\EVT_Monster_HeavyFootsteps	
+	3011457116	EVT_Stop_FireLoop			\Default Work Unit\Player\Lantern\EVT_Stop_FireLoop	
+	3022347629	EVT_Monster_BuildupRoar			\Default Work Unit\Enemies\EVT_Monster_BuildupRoar	
+	3034097187	EVT_Ore_Putdown			\Default Work Unit\Player\Items\EVT_Ore_Putdown	
+	3044374147	EVT_Mute_Switch			\Default Work Unit\Player\Alchemy\Casting\EVT_Mute_Switch	
+	3045220336	EVT_Lvl1_SurfaceMusic_Start			\Default Work Unit\Music\EVT_Lvl1_SurfaceMusic_Start	
+	3073281561	EVT_SulphuricVent			\Default Work Unit\Ambient\Environment\EVT_SulphuricVent	
+	3078087781	EVT_Crystal_Putdown			\Default Work Unit\Player\Items\EVT_Crystal_Putdown	
+	3099790395	EVT_Spellcasting_Cancel			\Default Work Unit\Player\Alchemy\Casting\EVT_Spellcasting_Cancel	
+	3111804192	EVT_Breath_Switch			\Default Work Unit\Player\Voice\Breathing\EVT_Breath_Switch	
+	3117356458	EVT_Intro_OUTDATED			\Default Work Unit\UI\Intro\EVT_Intro_OUTDATED	
+	3147399061	EVT_Rock_Rubble			\Default Work Unit\Ambient\Environment\EVT_Rock_Rubble	
+	3172090824	EVT_Landing			\Default Work Unit\Player\Footsteps\EVT_Landing	
+	3271767331	EVT_Play_Large_Damage			\Default Work Unit\Player\Damage\EVT_Play_Large_Damage	
+	3327208567	EVT_Thermutation			\Default Work Unit\Player\Alchemy\Crafting\EVT_Thermutation	
+	3391905979	EVT_TotemSpell_Destroy			\Default Work Unit\Player\Alchemy\Casting\EVT_TotemSpell_Destroy	
+	3435005371	EVT_Ice_Pickup			\Default Work Unit\Player\Items\EVT_Ice_Pickup	
+	3444922028	EVT_Ore_Pickup			\Default Work Unit\Player\Items\EVT_Ore_Pickup	
+	3468586872	EVT_Play_FirstTimeMonsterSpotted			\Default Work Unit\Enemies\EVT_Play_FirstTimeMonsterSpotted	
+	3479699950	EVT_MainMenu_MusicSwitch_Play			\Default Work Unit\UI\EVT_MainMenu_MusicSwitch_Play	
+	3494858376	EVT_TonicSpell			\Default Work Unit\Player\Alchemy\Casting\EVT_TonicSpell	
+	3504570738	EVT_Elevator_StartLoop			\Default Work Unit\Ambient\Environment\Elevator\EVT_Elevator_StartLoop	
+	3506547595	EVT_TutorialMusic_Start			\Default Work Unit\Music\EVT_TutorialMusic_Start	
+	3513355065	EVT_Player_Breath			\Default Work Unit\Player\Voice\Breathing\EVT_Player_Breath	
+	3561902237	EVT_ResumeLvlMusic			\Default Work Unit\Music\EVT_ResumeLvlMusic	
+	3634331573	EVT_UI_SaveGame			\Default Work Unit\UI\EVT_UI_SaveGame	
+	3644425499	EVT_Dialogue_Test_Stop			\Default Work Unit\Player\Voice\EVT_Dialogue_Test_Stop	
+	3648535693	EVT_LockedDoor			\Default Work Unit\Ambient\Environment\EVT_LockedDoor	
+	3659562566	EVT_SlowWater_Loop			\Default Work Unit\Ambient\Environment\EVT_SlowWater_Loop	
+	3663920866	EVT_Letter3			\Default Work Unit\UI\Letters\EVT_Letter3	
+	3663920867	EVT_Letter2			\Default Work Unit\UI\Letters\EVT_Letter2	
+	3663920868	EVT_Letter5			\Default Work Unit\UI\Letters\EVT_Letter5	
+	3663920869	EVT_Letter4			\Default Work Unit\UI\Letters\EVT_Letter4	
+	3663920870	EVT_Letter7			\Default Work Unit\UI\Letters\EVT_Letter7	
+	3663920871	EVT_Letter6			\Default Work Unit\UI\Letters\EVT_Letter6	
+	3674168775	EVT_Stop_Monster_BehindWall			\Default Work Unit\Enemies\EVT_Stop_Monster_BehindWall	
+	3677158992	EVT_Running_Footsteps			\Default Work Unit\Player\Footsteps\EVT_Running_Footsteps	
+	3698948462	EVT_TrapSpell_IdleLoop_Stop			\Default Work Unit\Player\Alchemy\Casting\EVT_TrapSpell_IdleLoop_Stop	
+	3717565556	EVT_Casting_SpellCircleDissolve			\Default Work Unit\Player\Alchemy\Casting\EVT_Casting_SpellCircleDissolve	
+	3724538534	EVT_Monster_UndergroundBreaths			\Default Work Unit\Enemies\EVT_Monster_UndergroundBreaths	
+	3738044069	EVT_Lvl2_CaveIntroMusic_Stop			\Default Work Unit\Music\EVT_Lvl2_CaveIntroMusic_Stop	
+	3831225064	EVT_Play_HvacHum			\Default Work Unit\Ambient\Environment\EVT_Play_HvacHum	
+	3851924452	EVT_Walking_Footsteps			\Default Work Unit\Player\Footsteps\EVT_Walking_Footsteps	
+	3895501425	EVT_Lvl2_SurfaceMusic_Start			\Default Work Unit\Music\EVT_Lvl2_SurfaceMusic_Start	
+	3973172085	EVT_HarpsIdea_Stop			\Default Work Unit\Music\EVT_HarpsIdea_Stop	
+	3999158936	EVT_PlayerLine_ByJove			\Default Work Unit\Player\Voice\Player Lines\EVT_PlayerLine_ByJove	
+	4013850389	EVT_Mute_GameSounds			\Default Work Unit\UI\EVT_Mute_GameSounds	
+	4077994133	EVT_Play_Lantern_Squeak			\Default Work Unit\Player\Lantern\EVT_Play_Lantern_Squeak	
+	4154008363	EVT_Letter6_01			\Default Work Unit\UI\Letters\TEMP Letters\EVT_Letter6_01	
+	4158116996	EVT_Play_Lantern_active_flicker			\Default Work Unit\Player\Lantern\EVT_Play_Lantern_active_flicker	
+	4193888790	EVT_Ice_Putdown			\Default Work Unit\Player\Items\EVT_Ice_Putdown	
+	4214639911	EVT_Play_PlayerDeath			\Default Work Unit\Player\Damage\EVT_Play_PlayerDeath	
+	4234952783	EVT_Hmm			\Default Work Unit\Player\Voice\EVT_Hmm	
+	4286429815	EVT_BreathOut			\Default Work Unit\Player\Voice\Breathing\EVT_BreathOut	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	213426741	BreathingType			\Default Work Unit\BreathingType	
+	716920490	Item2Type			\Default Work Unit\Item2Type	
+	1458816175	FootstepType			\Default Work Unit\FootstepType	
+	2185668417	Item1Type			\Default Work Unit\Item1Type	
+
+Switch	ID	Name	Switch Group			Notes
+	579662040	Gas	BreathingType			
+	1160234136	Normal	BreathingType			
+	3133847859	Fear	BreathingType			
+	3687161267	Cold	BreathingType			
+	169304029	Obsidian_Switch2	Item2Type			
+	622692499	Quartz_Switch2	Item2Type			
+	1034081060	Bone_Switch2	Item2Type			
+	1739544319	Plant_Switch2	Item2Type			
+	1827191677	Sulfur_Switch2	Item2Type			
+	1862540949	Ice_Switch2	Item2Type			
+	2146831336	Ash_Switch2	Item2Type			
+	2185109704	Iron_Switch2	Item2Type			
+	2671852629	Copper_Switch2	Item2Type			
+	615013061	Metal_Switch	FootstepType			
+	2252631665	Wood_Switch	FootstepType			
+	2350177422	Wet_Switch	FootstepType			
+	2422663965	Ice_Switch	FootstepType			
+	2895086567	Snow_Switch	FootstepType			
+	3283618867	Gravel_Switch	FootstepType			
+	169304030	Obsidian_Switch1	Item1Type			
+	622692496	Quartz_Switch1	Item1Type			
+	1034081063	Bone_Switch1	Item1Type			
+	1739544316	Plant_Switch1	Item1Type			
+	1827191678	Sulfur_Switch1	Item1Type			
+	1862540950	Ice_Switch1	Item1Type			
+	2146831339	Ash_Switch1	Item1Type			
+	2185109707	Iron_Switch1	Item1Type			
+	2671852630	Copper_Switch1	Item1Type			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	331200664	MonsterFinale			\Default Work Unit\MonsterFinale	
+	986683365	LifeStatus			\Default Work Unit\LifeStatus	
+	1118611586	FinalePursuit			\Default Work Unit\FinalePursuit	
+	1176052424	Location			\Default Work Unit\Location	
+	2806376803	CreditsCheck			\Default Work Unit\CreditsCheck	
+
+State	ID	Name	State Group			Notes
+	748895195	None	MonsterFinale			
+	1119997525	Vulnerable	MonsterFinale			
+	655265632	Alive	LifeStatus			
+	748895195	None	LifeStatus			
+	2044049779	Dead	LifeStatus			
+	748895195	None	FinalePursuit			
+	1516571116	Chasing	FinalePursuit			
+	748895195	None	Location			
+	4103860031	Indoors	Location			
+	4122393694	Cave	Location			
+	748895195	None	CreditsCheck			
+	1162327563	BeatGame	CreditsCheck			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	114172849	PlayerSlider			\Default Work Unit\PlayerSlider	
+	150560468	MasterSlider			\Default Work Unit\MasterSlider	
+	1100084731	FearLevel			\Default Work Unit\FearLevel	
+	1589659809	FlameStrength			\Default Work Unit\FlameStrength	
+	2567062053	EnvSlider			\Default Work Unit\EnvSlider	
+	2819001335	VoicesSlider			\Default Work Unit\VoicesSlider	
+	2980161701	MusicSlider			\Default Work Unit\MusicSlider	
+	3599535653	PlayerStamina			\Default Work Unit\PlayerStamina	
+	3659922560	EnemiesSlider			\Default Work Unit\EnemiesSlider	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1069431850	Player			\Default Work Unit\Master Audio Bus\In-game sounds\Player	
+	1229948536	Environment			\Default Work Unit\Master Audio Bus\In-game sounds\Environment	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\UI	
+	2242381963	Enemies			\Default Work Unit\Master Audio Bus\In-game sounds\Enemies	
+	2301521705	In-game sounds			\Default Work Unit\Master Audio Bus\In-game sounds	
+	3313685232	Voices			\Default Work Unit\Master Audio Bus\In-game sounds\Voices	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\In-game sounds\Music	
+	3995960537	Main_Reverb			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	144697359	Outdoor			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\Outdoor	
+	187046019	LargeRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\LargeRoom	
+	1245295233	MediumRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\MediumRoom	
+	2334881412	DistanceReverb			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\DistanceReverb	
+	2933838247	SmallRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\SmallRoom	
+	3059984139	Tunnel			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\Tunnel	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	702543456	Tunnel1	Wwise Matrix Reverb			
+	975284475	Time Stretch (Custom)	Wwise Time Stretch			
+	1551236760	Small_Wooden_Room1	Wwise Matrix Reverb			
+	1904434771	Medium_Room1	Wwise Matrix Reverb			
+	2656259783	PA_Announcement1	Wwise Matrix Reverb			
+	2662085913	Large_Church1	Wwise Matrix Reverb			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	229549479	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter2\Pause\Silence	
+	268771002	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter4\Pause\Silence	
+	277501690	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_NasalBreathing\silence\Silence	
+	290334746	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter3\Pause\Silence	
+	304810059	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\SFX_Plant\Silence	
+	316654106	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\SFX_Plant\Silence	
+	331711884	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt1\Pause\Silence	
+	343968159	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt2\Pause\Silence	
+	416840828	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_SnowSteps\silence\Silence	
+	699704260	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter7\Pause\Silence	
+	818920178	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\Pause\Silence	
+	1070685557	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter5\Pause\Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	2006161	SFX_PutDown_Crystal_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3E\{3E456C0F-97A1-7AAD-3ABB-44256B882349}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Crystal_Putdown\SFX_PutDown_Crystal_4		11541
+	5424499	SFX_Player_Breathing_Shiver_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E0\{E0BCC0E8-E3C1-9450-A7B4-8C29402DFDCE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_ShiveryBreathing\SFX_Player_Breathing_Shiver_01		27257
+	6065006	SFX_PutDown_Crystal_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2F\{2F939178-17BF-A085-9895-C5D468B9506B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Crystal_Putdown\SFX_PutDown_Crystal_5		16379
+	9064545	SFX_PickUp_Crystal_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\65\{6598CB1B-ED88-7A8B-CD88-295EFDF8FE80}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Crystal_Pickup\SFX_PickUp_Crystal_2		9838
+	9822694	SFX_Monster_Grunts_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A6\{A6CFB909-8A89-6358-281D-6E30840C02F2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Attacking\NormalRoar\SFX_Monster_Grunts_01		34205
+	10650905	VA_Mother Letter 469	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8F\{8FF5D876-B272-FC00-A6C5-082B34A7F3D2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter4\VA_Mother Letter 469		66667
+	10866182	Gravel Footstep _4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\99\{99D36037-6BA9-3790-1F5A-AF471B91E09D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_GravelSteps_Walk\Gravel Footstep _4		6540
+	18479158	VA_Mother Letter 136	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AF\{AF3BBF26-2636-5A63-039E-B0229594704C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt2\VA_Mother Letter 136		15456
+	18943807	SFX_SubtitleTest02_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5E\{5EED40F0-B228-253B-B19F-31825919C42A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoiceActing\Test\SFX_SubtitleTest02_02		92168
+	20901529	SFX_WoodAmbience_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E0\{E0F69658-7570-EFC5-7735-B785888DA10C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_4		56997
+	21318769	SFX_FlowingWater_Clear_Loop_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\23\{23F95D05-05D3-FDE0-3ACC-B5A0F1D13F25}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\SFX_FlowingWater_Clear_Loop_01		369311
+	21768084	SFX_Potion_Tonic_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\92\{9212B2FA-BE30-32B0-A31F-81DFF5E4B191}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\RAND_Burn\SFX_Potion_Tonic_04		27915
+	22380916	SFX_Elevator_Stop	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\83\{836B6A41-1BCB-B247-3311-17304DD1FC65}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Elevator\SFX_Elevator_Stop		8535
+	25930615	MUS_HarpsIdea_120BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DF\{DF24C297-1E57-53E1-3BD8-F68531797B93}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_HarpsIdea\MUS_HarpsIdea_120BPM\MUS_HarpsIdea_120BPM		1562852
+	27607544	SFX_Cloth_Sounds_18	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\50\{50E6EE7E-389B-D9AC-98A2-478693F51303}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Cloth\Cloth_Deep\SFX_Cloth_Sounds_18		12324
+	29968564	VA_Mother Letter 474	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6F\{6FA324BB-628B-9671-57ED-37838168A8F7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter4\VA_Mother Letter 474		40964
+	30696375	SFX_CreepyPiano_11	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\81\{8137F7EA-5BE1-0B1A-0E66-F8D5A1CA9012}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_11		90356
+	31871117	SFX_MetalAmbience_Groan_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2A\{2AF9A951-7306-7511-E242-6581794796E0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalGroan\SFX_MetalAmbience_Groan_2		37745
+	33015283	SFX_Wood_WalkStep_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5A\{5ADE1CD4-6F3F-092C-70BA-68B41D92DB32}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_02		5437
+	37028414	Gravel Footstep _5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E8\{E85AB852-CB99-FFCA-A151-29CF42A45B48}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_GravelSteps_Walk\Gravel Footstep _5		6217
+	37802043	VA_Mother Letter 7112	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2E\{2E0EA926-5F88-75D1-6C50-83EE77233548}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter7\VA_Mother Letter 7112		71690
+	38069476	SFX_Monster_Confused_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D0\{D0F8EBC7-EDCA-E678-C206-64F9C06AE799}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Confused\SFX_Monster_Confused_03		33493
+	45664636	SFX_Metal_walk_step01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D1\{D19EC0FD-9476-1526-B3F4-A2DB82303D7A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_MetalSteps_Walk\SFX_Metal_walk_step01		3013
+	48598004	SFX_Thermutation_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E6\{E65DBE2C-D508-C8D0-C466-CC0F67EE5B0B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\Thermutation\SFX_Thermutation_1		84650
+	49716766	SFX_ImpactSound01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C7\{C74D5866-8B81-FC15-C320-D76CE7B7E105}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Damage\RAND_Player_PhysicalImpact\SFX_ImpactSound01		5572
+	50008512	VA_Mother Letter 586	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\67\{6731CA4D-ECF4-1968-C984-9A96517037AE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter5\VA_Mother Letter 586		58377
+	50696220	SFX_Creaky_Door_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\80\{80A2AC03-C7DE-8DB5-5B04-9338A97B686A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Doors\RAND_CreakyDoor\SFX_Creaky_Door_03		18005
+	50909302	VA_Mother Letter 360	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\53\{5339BABD-FCAD-EFFF-FF3F-0AEA280677DB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter3\VA_Mother Letter 360		38057
+	53318042	SFX_Ice_Putdown_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CF\{CF560965-4F1D-C617-10C1-4F1313338E48}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Ice_Putdown\SFX_Ice_Putdown_01		8238
+	55011624	VA_Mother Letter 581	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3F\{3F97D4F1-AE39-4CB0-19B0-736F7FD60D50}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter5\VA_Mother Letter 581		10642
+	55452094	SFX_Monster_Gasping_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C5\{C59C1E29-EF7A-5B11-D1DB-195AC3305A41}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Gasping\SFX_Monster_Gasping_01		67292
+	56238837	MUS_Finale_Drums_Only_76BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FF\{FF385A68-0E69-BFC0-EF0D-8BF8F5CC466F}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_Finale\MUS_Finale_Beat12_Base_ARP+Solo_76BPM_01\MUS_Finale_Drums_Only_76BPM		2390763
+	57868529	VA_My Word21	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A0\{A06B5258-BD42-7390-A142-ACCA567E1FFB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\MyWord\VA_My Word21		22794
+	57996516	MUS_Pursuit_Intro	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\20\{202B0D70-3850-5EAF-D69C-33CE457D4B19}.wem		\Interactive Music Hierarchy\Default Work Unit\MSC_Pursuit\MPC_PursuitLoop\MSG_PursuitMusic_Intro\MUS_Pursuit_Intro		68159
+	60057223	SFX_ChainsRattling02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\09\{092898B2-F30B-BF17-D67C-E1509400A175}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Iron\SFX_ChainsRattling02		11774
+	60231234	VA_Mother Letter 134	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AF\{AFDC0242-FF90-FEC1-1363-E76D1F8D27F5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt2\VA_Mother Letter 134		101788
+	64402816	SFX_Smokebomb02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F2\{F2A3192D-2AAD-8E29-B8A4-64A1F537207E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Obsidian\SFX_Smokebomb02		33833
+	64585255	SFX_Ambience_Bass_12	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\10\{10529459-532A-255C-CBB5-6CFC6F60C8DF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_12		52228
+	68943799	VA_Mother Letter 140	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\99\{99F8FB61-BCFF-0D7F-5920-F04AD97643CC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt2\VA_Mother Letter 140		16824
+	69037678	SFX_FluorescentLights_Dry_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2D\{2DA0528F-AF3C-A949-70FF-27813216EF3D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Lights\SFX_FluorescentLights_Dry_01		66325
+	69259038	VA_Mother Letter 7113	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\15\{15025716-D1F1-459D-6C9F-664B6F2CD726}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter7\VA_Mother Letter 7113		24317
+	71126594	SFX_PickUp_Crystal_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\95\{951035BD-51B0-65F5-4EB6-12A382B542C5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Crystal_Pickup\SFX_PickUp_Crystal_3		14735
+	72269851	SFX_MetalSqueak_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D3\{D33BC8C5-EDE1-E5FD-1E35-24CA82A04C84}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalSqueak\SFX_MetalSqueak_3		9594
+	76326146	SFX_LightningVFX01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5F\{5FCB010B-0068-5464-3E02-242242062D2B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Copper\SFX_LightningVFX01		7483
+	80164567	SFX_Elevator_Start	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\91\{91D9BF93-9B95-D348-5E79-18A65CD74631}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Elevator\SFX_Elevator_Start		8754
+	80314580	SFX_Death_Crunch	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9C\{9C3E1945-DEBD-1D19-7927-D3EF68A39290}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Damage\SFX_Death_Crunch		10557
+	82626132	SFX_Snow_Walk_Step06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\88\{88B4667D-3BB0-A1D2-E4EB-152AD16CFA5C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_SnowSteps_Walk\SFX_Snow_Walk_Step06		9380
+	86105932	SFX_Monster_Tired_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B4\{B42DDE87-E127-01F6-1B04-CA7BCD0212D9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Tired\SFX_Monster_Tired_04		42288
+	86184599	SFX_Monster_LoudRoar_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\65\{65ACF135-1385-4332-5896-F061F83A0C27}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Attacking\LoudRoar\SFX_Monster_LoudRoar_01		25804
+	86392523	VA_Mother Letter 471	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F9\{F932E3AB-982A-B313-26CD-3A9FB8F90DCD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter4\VA_Mother Letter 471		71056
+	88228340	SFX_Player_Breathing_Quick_12	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CF\{CFD707B6-2B4D-2E37-E49A-A3C2C293D557}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_12		9699
+	90013389	SFX_Player_Breathing_Quick_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\25\{259863FB-E7CB-BABE-0A06-2D53A11FC379}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_01		10986
+	90106406	MUS_Finale_Arp+Solo_Only_76BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C3\{C391EDB2-8A6F-8759-FC3E-187A56922632}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_Finale\MUS_Finale_Beat12_Base_ARP+Solo_76BPM_01\MUS_Finale_Arp+Solo_Only_76BPM		2758049
+	94036769	SFX_Book_PageTurn_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C4\{C4F169EC-7C3C-1042-EC87-00C0FFD28359}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_PageTurn\SFX_Book_PageTurn_5		11500
+	95364888	wetStep1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\33\{33234CA0-C244-F111-3F2D-7668A646A03C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WetSteps_Run\wetStep1		4036
+	96291898	SFX_Cloth_Sounds_8	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\64\{644B195F-0F56-83D8-320C-971DD7DE0FAF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Cloth\Cloth_Walking\SFX_Cloth_Sounds_8		20351
+	98126303	VA_Mother Letter 582	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\37\{3752A2CA-0B1E-4E29-8F78-91FDFB232AF2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter5\VA_Mother Letter 582		44383
+	98426605	SFX_MetalAmbience_Groan_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E9\{E99E38FB-F3FA-A0C3-BBF9-F3A351C48096}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalGroan\SFX_MetalAmbience_Groan_1		40408
+	100027757	SFX_DoorLockFeedback05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\91\{9159E9A4-B747-561B-10A3-79DD233B7B69}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Doors\RAND_LockedDoor\SFX_DoorLockFeedback05		11920
+	106255419	SFX_Pickup_Plant_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\11\{11F7546E-837E-8B1A-6585-EBCB0773A089}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Plant_Pickup\SFX_Pickup_Plant_4		5668
+	109206994	SFX_Crafting_MainSlot	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9A\{9A937740-97CE-95EB-DA74-2A10BFEF624F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\RAND_Craft_MainSlot\SFX_Crafting_MainSlot		48273
+	111231481	SFX_Snow_Walk_Step03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E4\{E458383D-E0CA-1BB2-01D6-274DFFD3AAEC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step03		8347
+	113044516	SFX_Player_Grunts_Medium_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\37\{379CEF52-06E1-8763-C066-A70AD1874F3C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_03		11207
+	113187117	SFX_SubtitleTest02_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8A\{8ABB97D3-6D77-4F84-ED4D-A2F61ECEA4D4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoiceActing\Test\SFX_SubtitleTest02_01		71825
+	115685473	SFX_LightningVFX05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1C\{1C56DCC3-ECC3-7206-16A2-7657831BB89D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Copper\SFX_LightningVFX05		8290
+	115890557	VA_Mother Letter 593	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9B\{9B04BD25-C64E-CC6D-2EA0-1F9E5A36349C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter5\VA_Mother Letter 593		21393
+	120305947	SFX_Potion_Tonic_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D4\{D4BF7D19-107D-6DF5-DD0D-8B2553B03726}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TonicSpell\RAND_TonicSpell\SFX_Potion_Tonic_02		28859
+	121353412	SFX_Trap_Activate	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\00\{00AA41A7-583A-D54B-D928-92A36682B535}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Trap Spell\RAND_TrapSpell_Trigger\SFX_Trap_Activate		112176
+	121543542	SFX_Wood_RunStep_11	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\65\{655AE02C-A505-7E63-D6C9-4AD3FB492B63}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_11		3529
+	122744118	VA_Mother Letter 7107	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\26\{264235A5-C180-FA6D-B5BA-4579809169BC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter7\VA_Mother Letter 7107		62964
+	123218149	VA_Mother Letter 127	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\65\{65D58053-7364-049C-600D-AB6616869EFE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt1\VA_Mother Letter 127		30200
+	125684719	SFX_Player_Breathing_Nasal_10	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CB\{CB09558A-7DF0-E890-0989-C6B8E86CCDB1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_NasalBreathing\SFX_Player_Breathing_Nasal_10		9375
+	127981226	SFX_MetalAmbience_Groan_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\53\{537189CA-D4BC-EC20-4283-E097105F6819}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalGroan\SFX_MetalAmbience_Groan_3		36154
+	128154727	SFX_PickUp_Bone_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CD\{CD568A29-4097-AE58-3CB8-0EC642645D4B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Bone_Pickup\SFX_PickUp_Bone_5		15405
+	132121240	SFX_Player_Breathing_Shiver_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BA\{BA115305-D39A-D278-3080-07CF1335C877}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_ShiveryBreathing\SFX_Player_Breathing_Shiver_04		24326
+	132834639	SFX_PutDown_Bone_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\37\{3747400F-E53F-982A-0A42-C2C0569B92B2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Bone_Putdown\SFX_PutDown_Bone_3		13463
+	134227767	SFX_Book_Close_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5C\{5C8ACB22-F669-8CA5-C420-5449F8100352}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Close\SFX_Book_Close_05		5574
+	139339646	SFX_IceAmbience_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\15\{15FDD462-763A-BCAD-8ECD-B36EBD2837AF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_Ambience_Ice\RAND_Ambience_IceDrops\SFX_IceAmbience_4		453953
+	139439020	VA_Mother Letter 583	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\83\{838A47ED-72DE-AF58-E482-A4A2E60C8103}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter5\VA_Mother Letter 583		48572
+	141381817	SFX_Monster_BuildupRoar_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\26\{2678DE34-FBEB-3BFC-C8E8-7BA9BC2A9F86}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Attacking\SFX_Monster_BuildupRoar_01		26907
+	143633902	SFX_IceAmbience_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7E\{7ED2D135-23E3-0051-3718-1C152F035765}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_Ambience_Ice\RAND_Ambience_IceDrops\SFX_IceAmbience_5		485662
+	145063689	VA_Mother Letter 131	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3B\{3BC4B1C6-160A-6EEA-DDAB-7B60E2FD7332}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt1\VA_Mother Letter 131		50352
+	145659464	VA_My Word22	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E7\{E735E5AA-51EC-A180-3039-20C02D763CC7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\MyWord\VA_My Word22		19284
+	147067754	SFX_Waste_PickUp_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2F\{2FDF3F64-3EB4-803A-965A-AC7009C4BE00}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\Waste\SFX_Waste_PickUp_5		11047
+	147618623	SFX_Potion_Tonic_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C5\{C5036425-BD5F-0C6C-23CD-6C4A0D423680}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\RAND_Burn\SFX_Potion_Tonic_02		24784
+	148358239	SFX_Monster_Breathing_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DF\{DFB977DC-0552-45E4-682E-C955D44B9D33}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Normal Breathing\SFX_Monster_Breathing_04		118190
+	149635650	SFX_Wood_RunStep_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\40\{40D8885C-B5F4-CC48-1791-82F8E6A0F6C3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_03		3599
+	151202259	VA_Mother Letter 125	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A7\{A7BD9968-82EF-9AAF-87CB-B8C1383A658E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt1\VA_Mother Letter 125		74657
+	154798848	SFX_Wood_RunStep_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\65\{65E6FE87-10B3-127E-D45F-3AE371AEEBBD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_07		3387
+	156562058	SFX_Player_ChokingGrunt_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C3\{C3FC11E5-91D3-A032-3B25-D79E586E23D1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Deaths\SC_Death\RAND_ChokingGrunt\SFX_Player_ChokingGrunt_1		11309
+	156714165	SFX_LightsDyingOut	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\54\{541DEB90-0D89-B6BE-4BA2-A72346081AB2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Lights\SFX_LightsDyingOut		17838
+	158674203	SFX_Utility_Spell Switch_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F0\{F03990D1-1ED2-C9FF-8D88-4AACC4F7D938}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\RAND_Mute_Switch\SFX_Utility_Spell Switch_01		12510
+	160340200	SFX_Monster_Breathing_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1E\{1E9D748C-827A-9568-9ECA-3D59F66923D3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Normal Breathing\SFX_Monster_Breathing_01		84435
+	161250473	SFX_WallBreak_Rock_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\99\{99FE970F-AE7D-3ACE-210F-007163C5A6FB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\RAND_WallBreak_Rubble\SFX_WallBreak_Rock_3		16081
+	167675229	SFX_Player_Death_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\14\{14009509-3D2A-E2CC-4DA4-24BA14654ABB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Deaths\SC_Death\RAND_DeathCry\SFX_Player_Death_5		10513
+	170568054	SFX_Player_Grunts_Heavy_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\63\{63EF1C5C-D807-979D-50E4-99D91CB145C1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_HeavyGrunt\SFX_Player_Grunts_Heavy_02		6590
+	172031342	SFX_Footstep_Monster_10	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\43\{43AC0827-F986-95BC-8350-378EAD42BB50}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_HeavyFootstep_Enemy\SFX_Footstep_Monster_10		9494
+	173808097	VA_What The Hell Was That03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C3\{C382EDB8-67B4-23E8-D930-16AD31BE33F1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\What\VA_What The Hell Was That03		22255
+	177338238	SFX_Wood_RunStep_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\40\{40E02201-F46A-E2F0-982F-1FE7730BD529}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_04		3556
+	181990362	MUS_Lvl2_Surface_Beat9_60BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\90\{90CD5BDC-0979-30E3-62FF-50FB6D16726F}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_Lvl2_Surface_Beat9\MUS_Lvl2_Surface_Beat9_60BPM\MUS_Lvl2_Surface_Beat9_60BPM		902637
+	183121907	VA_Ungodly Beast07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4E\{4E459D19-2529-3F7B-1B23-F06F86BABD32}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\UngodlyBeast\VA_Ungodly Beast07		33212
+	183213240	SFX_Player_Breathing_Shiver_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\63\{630A0D58-DA14-254C-1D86-1C371017B7D2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_ShiveryBreathing\SFX_Player_Breathing_Shiver_02		30067
+	185256966	SFX_Snow_Walk_Step01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\05\{05F1D88D-C98D-3366-CDCE-94E16D04D232}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_SnowSteps\SFX_Snow_Walk_Step01		10831
+	187325107	SFX_Book_Opening_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\20\{20EB7857-AACF-062F-618A-E31DB506D084}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Opening\SFX_Book_Opening_3		12894
+	189375870	SFX_Wood_RunStep_08	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\70\{70589CCD-895D-A97E-3839-532380D2DF11}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_08		3570
+	190031161	SFX_Elevator_Falling	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F4\{F498EE56-39B0-8E6E-2292-DF3AAA3C8C65}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Elevator\SFX_Elevator_Falling		19480
+	190372043	wetWalk1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\67\{67A60CA2-1134-D838-F217-B34973ADB8F5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WetSteps_Walk\wetWalk1		14418
+	194444587	SFX_DoorLockFeedback01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FD\{FD3BFC6B-AFB6-A3B1-710D-57CAA8571366}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Doors\RAND_LockedDoor\SFX_DoorLockFeedback01		9260
+	195435272	SFX_Utility_Spell Switch_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3E\{3ED603E0-8ABC-4C73-B3D5-18CC016151D0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\RAND_Mute_Switch\SFX_Utility_Spell Switch_02		12630
+	196532362	SFX_Putdown_Ash_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\39\{39867921-5AC2-9989-42E8-F48091363B10}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Powder_Putdown\SFX_Putdown_Ash_5		9301
+	197227759	SFX_MetalAmbience_Creak_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\62\{62D1612A-70AF-A6E3-853A-9BD7DF151435}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalCreak\SFX_MetalAmbience_Creak_5		42273
+	198160998	SFX_Player_Death_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AB\{AB1924AA-42C9-72CC-9DB0-92C50E41A0D5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Deaths\SC_Death\RAND_DeathCry\SFX_Player_Death_1		11798
+	199763442	SFX_CreepyPiano_12	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9D\{9D486768-DF50-6BEE-E184-37EA362CE6FA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_CreepyPiano\SFX_CreepyPiano_12		82471
+	204679100	VA_Mother Letter 699	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\35\{357DE571-5275-FCCB-144B-1CF00F3C7CBC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\VA_Mother Letter 699		103627
+	205060218	SFX_Player_Grunts_Medium_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E9\{E9294C94-D9DC-183E-83AC-558E22947593}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_09		7450
+	206320306	SFX_Wood_WalkStep_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\03\{0361B9C8-2364-8CB6-4B8B-5F0F56A59FEB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_05		3755
+	207472031	SFX_Player_Breathing_Quick_13	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0D\{0D9FCEE3-2FAC-534D-0D3A-B77980162D9D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_13		9807
+	207655886	SFX_IcyMist01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3C\{3C5BB35F-4F50-4281-6BAF-53BFCF5C6D27}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\SFX_IcyMist01		98040
+	209983426	VA_Mother Letter 249	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\24\{24CC4827-8E71-607D-7596-B2317E2BCDE5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter2\VA_Mother Letter 249		46172
+	211272323	SFX_CreepyPiano_17	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\83\{839F138A-1A65-E72C-FFA1-FC99A68F7641}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_CreepyPiano\SFX_CreepyPiano_17		62971
+	217535483	SFX_IceStep_Walk_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C0\{C0D02B98-C303-014E-001C-48C46E6169B4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_IceSteps_Walk\SFX_IceStep_Walk_01		10372
+	217833674	wetStep4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6B\{6B5FC813-42F5-B9B9-8145-D0129C600024}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WetSteps_Run\wetStep4		4721
+	219454746	wetStep2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AB\{AB86B36E-B7F1-5DC7-17F5-A8894DB749FD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WetSteps_Run\wetStep2		3627
+	222147282	SFX_PickUp_Bone_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CD\{CDB395A8-3174-31DC-976B-22F06324DC10}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Bone_Pickup\SFX_PickUp_Bone_1		12517
+	224230842	SFX_PickUp_Crystal_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FE\{FE40627B-1B54-22FF-3F05-350BF1259AF0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Crystal_Pickup\SFX_PickUp_Crystal_4		22745
+	225262085	SFX_Spellcasting_Buildup	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\98\{98D8C11B-41C2-D8A5-68B8-E147073BAD83}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\SFX_Spellcasting_Buildup		143941
+	226167386	SFX_IceStep_Run_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9B\{9BA98822-E83E-E42A-5D7E-B8B3D7638D57}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_IceSteps_Run\SFX_IceStep_Run_01		5837
+	228652787	SFX_Wood_WalkStep_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5B\{5B6CE102-11D3-F94E-E42A-83D4B4E19957}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_07		4816
+	229221553	SFX_Snow_Walk_Step02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FF\{FFD37C25-5FCE-B953-12EC-047EA7C761B0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step02		8843
+	231304524	wetWalk4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\44\{44558357-EC79-C7BE-AEF9-2B1EBE35012A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WetSteps_Walk\wetWalk4		15724
+	231772738	VA_Mother Letter 137	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\55\{5506F97D-ABC1-028B-A51B-DAD7E0E90B25}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt2\VA_Mother Letter 137		35591
+	235490373	SFX_SpellCastNodeRedo03_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\90\{904F8675-EC5E-5CC7-BB57-76A73ED4109B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\RAND_Spellcasting_Node\SFX_SpellCastNodeRedo03_1		20300
+	235706766	SFX_IceAmbience_6	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\53\{53852A6A-1D05-8DE9-5C86-3457AC376C79}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_Ambience_Ice\RAND_Ambience_IceDrops\SFX_IceAmbience_6		453065
+	237651583	SFX_Ice_Putdown_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\63\{636B9477-230F-5E9D-E558-09A759DE6FAC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Ice_Putdown\SFX_Ice_Putdown_02		12156
+	239854552	SFX_PutDown_Bone_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3D\{3D0A8376-4CBF-7CBF-43E8-330F60438637}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Bone_Putdown\SFX_PutDown_Bone_2		13610
+	243604267	SFX_CreepyPiano_19	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\84\{84552BF0-2995-A0E8-2BAC-78A3F0DC37E2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_CreepyPiano\SFX_CreepyPiano_19		51847
+	244253145	VA_Mother Letter 585	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\05\{057A0034-C50E-0A87-B965-25363BEE7D0C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter5\VA_Mother Letter 585		49800
+	244822754	SFX_PickUp_Crystal_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2A\{2A19D19A-4639-3356-A2A4-6061FB49FC8F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Crystal_Pickup\SFX_PickUp_Crystal_5		12783
+	245136388	SFX_Ambience_Bass_08	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C2\{C25F859A-8068-6ABD-DEAB-3DD8E7FC5A04}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_08		64697
+	246288788	SFX_Player_Sigh_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\83\{83539434-920F-1FE5-0956-FE93F39B7AC7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\RAND_Sigh\SFX_Player_Sigh_3		11585
+	247671392	SFX_Player_Sigh_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EA\{EA96BBC8-6CD4-670D-9B10-373D19FABF11}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\RAND_Sigh\SFX_Player_Sigh_2		11721
+	248532233	VA_Mother Letter 7110	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E9\{E97DEC31-7FEB-C8FC-03A9-F9644FF3D30E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter7\VA_Mother Letter 7110		78097
+	249485747	SFX_Player_Breathing_Shiver_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D7\{D7B3F674-85F9-BFD7-0D54-2FE60A1005AF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_ShiveryBreathing\SFX_Player_Breathing_Shiver_05		28306
+	260497251	SFX_Elevator_Crash	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\55\{554164CE-95C1-7691-14DE-E69B4DE302BC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Elevator\SFX_Elevator_Crash		16611
+	262475151	SFX_Book_Writing_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FA\{FA738CAA-7E0D-3A97-FDAD-F1DA901CF744}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Writing\SFX_Book_Writing_05		20465
+	265901129	SFX_IceStep_Walk_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E6\{E684E674-BCC3-220A-5E0B-85A7B346480B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_IceSteps_Walk\SFX_IceStep_Walk_06		10537
+	266916401	SFX_Pickup_Ash_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8E\{8E56B9B8-3585-2973-6C8B-58212B9378E5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Powder_Pickup\SFX_Pickup_Ash_1		3697
+	266968349	SFX_Player_Breathing_Quick_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E7\{E753DA28-9058-58BE-72AC-9D40FCE25E8E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_09		10227
+	267209132	SFX_WindAmbience	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\33\{33C88139-25EB-4F5A-EC7F-305C416E1736}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\SFX_WindAmbience		777833
+	270784372	SFX_Player_Breathing_Quick_14	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\60\{607339F7-2BF2-858F-6F48-D757753127B8}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_14		9678
+	271578040	Lantern Squeaking ambience02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C3\{C3882845-988C-CE16-EAD9-6B83459FB3B0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\Lantern_Squeak\Lantern Squeaking ambience02		7488
+	272087936	SFX_Monster_Roar_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6B\{6B10F604-0F55-AACF-C405-8149F51C8A57}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Attacking\NormalRoar\SFX_Monster_Roar_01		21119
+	272848616	SFX_Player_Breathing_Strained_08	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4B\{4B52FA0D-EA8E-4A12-2194-0119EF8D4A89}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_08		22989
+	275083756	SFX_Player_Breathing_Strained_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D4\{D48171E3-FDAA-2CEE-4EC0-D1F30FBBE891}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_02		22240
+	282495450	SFX_Potion_Tonic_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2B\{2BB77CA5-A8EB-AC11-6C78-5BD7C1EC1C8C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\RAND_Burn\SFX_Potion_Tonic_03		23107
+	282630332	SFX_Dmg_StalactiteImpact_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\53\{531B3C93-308E-CEE7-37BD-D15C94627F3D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Stalactite\RAND_Stalactite_Impact\SFX_Dmg_StalactiteImpact_03		8561
+	285686314	VA_Mother Letter 135	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2D\{2D637B91-52EC-BA03-6909-78CDC613053E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt2\VA_Mother Letter 135		80871
+	287343444	VA_Mother Letter 132	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A6\{A6F15E15-E1DB-2715-EAC9-739F6703C90B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt1\VA_Mother Letter 132		19343
+	287397664	SFX_WallBreak_Rock_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D2\{D227612C-66BF-6F8B-93E2-3B28B13FE587}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\RAND_WallBreak_Rubble\SFX_WallBreak_Rock_2		15694
+	290184716	SFX_Cloth_Sounds_22	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B8\{B8627B2D-CB6D-CFD0-E028-4FBE13E88B90}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Cloth\Cloth_Walking\SFX_Cloth_Sounds_22		13278
+	290738592	SFX_Player_Breathing_Quick_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\59\{59BA4FCB-338C-0F06-4439-4076DE094B69}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_03		9573
+	294392532	SFX_Ambience_Bass_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F1\{F1A9B84D-5AD4-AB17-8513-C93D5D5A3338}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_03		65158
+	296616292	SFX_UIClicks02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2D\{2DEC259B-25C0-2F15-C479-D946441DEDCB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\SFX_UIClicks02		18592
+	296639598	SFX_Player_Breathing_Strained_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9B\{9B1E4D1A-1CCF-1D90-C9FE-6E5D59AC247C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_06		22215
+	296846490	SFX_Player_ChokingGrunt_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\42\{4250A907-780E-EEDE-50BF-53FAF0D92FEF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Deaths\SC_Death\RAND_ChokingGrunt\SFX_Player_ChokingGrunt_2		21121
+	299660134	SFX_Book_Opening_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6E\{6E56A5D0-4A3C-6A35-E3A8-0E7DA59B6C45}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Opening\SFX_Book_Opening_2		17690
+	301381955	SFX_WoodAmbience_6	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A2\{A2B973A1-17CA-3B60-5E28-66CE174BB791}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_6		118243
+	303947177	SFX_Potion_Tonic_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A0\{A0498A33-3CDE-3AE5-176F-887F987289DE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\RAND_Burn\SFX_Potion_Tonic_01		27728
+	309569940	SFX_WoodAmbience_9	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EC\{EC8A92D9-81F0-D225-1055-D0938883B56A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_9		31079
+	312263355	SFX_Ambience_Bass_11	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\14\{14C0725B-876B-41B5-C305-B4CD7A44578D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_11		106454
+	313314510	SFX_Monster_Gasping_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2F\{2F83353A-B503-2F5D-A540-A413CE8BA202}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Gasping\SFX_Monster_Gasping_02		70727
+	315978498	VA_Mother Letter 697	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2E\{2EBC0E15-C14C-A297-58B9-91B3A50C240F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter6\VA_Mother Letter 697		163880
+	317468960	VA_Mother Letter 362	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\60\{60869EB1-B498-360F-BC32-FE8F8C2BC44C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter3\VA_Mother Letter 362		85835
+	321114411	SFX_DoorLockFeedback04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\11\{11383FA2-74EC-D46E-3204-2146651141E0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Doors\RAND_LockedDoor\SFX_DoorLockFeedback04		11210
+	321853786	SFX_Player_Grunts_Heavy_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\33\{33085631-7C5C-1349-1F1B-D26A07AFC793}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_HeavyGrunt\SFX_Player_Grunts_Heavy_06		7290
+	322436510	SFX_CreepyPiano_20	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D4\{D4C59B3D-1607-D7CF-074C-01199CB6467F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_20		120017
+	328911313	SFX_Book_Close_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CD\{CD35A52B-90B2-4298-DF5B-888BF82D721F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Close\SFX_Book_Close_02		3212
+	330186688	SFX_Smokebomb01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9F\{9FB5351E-368F-460E-2E04-4465D58737F1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Smokebomb\SFX_Smokebomb01		93034
+	333569747	Gravel Footstep _5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\71\{71971F4F-11D1-E7FA-BEE2-85186F648246}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_GravelSteps_Run\Gravel Footstep _5		4783
+	334244811	SFX_Trap_Arm_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2D\{2DA75DE6-0BEE-FAD5-A4F0-414CA603AD81}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Trap Spell\RAND_TrapSpell_Place\SFX_Trap_Arm_2		40561
+	337178687	SFX_Potion_Tonic_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B9\{B90DFF49-5DC7-1C38-0393-096A7CD1FCA0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TonicSpell\RAND_TonicSpell\SFX_Potion_Tonic_01		30103
+	339209806	SFX_BreathOut_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CF\{CFECC0A8-637C-01F9-10C9-093FBC21D0B2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathOut\SFX_BreathOut_05		6250
+	339499591	SFX_PutDown_Bone_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\95\{95B7A1A1-1482-0E28-E09C-FEA88911FACF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Bone_Putdown\SFX_PutDown_Bone_1		13190
+	343902232	VA_Mother Letter 478	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\26\{26F7A32B-192A-C4F2-E869-DEBFAB8EBB71}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter4\VA_Mother Letter 478		24009
+	344270858	SFX_Metal_walk_step03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BC\{BC7AECFF-1A06-E96D-D76F-AF524E290D06}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_MetalSteps_Run\SFX_Metal_walk_step03		2751
+	345704072	SFX_Crafting_SubSlot2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E7\{E7CC9789-51F6-9A0B-BB49-7156CDD19659}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\RAND_Craft_SubSlot\SFX_Crafting_SubSlot2		51350
+	355891956	SFX_IceStep_Walk_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3E\{3E1D0A50-DDBD-7133-4301-8DD0E4DB5AAA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_IceSteps_Walk\SFX_IceStep_Walk_02		9063
+	357697186	SFX_Cloth_Sounds_21	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4B\{4B8E53E4-D317-08A4-2AE1-9B71C45A712D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Cloth\Cloth_Walking\SFX_Cloth_Sounds_21		10910
+	358179643	SFX_Player_Hmm_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\75\{75D712E9-CE63-B651-98D9-67D071121044}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\RAND_Hmm\SFX_Player_Hmm_3		11965
+	359799480	SFX_Footstep_Monster_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F2\{F2F0C9B2-0627-1900-E548-E5C05BBDEF81}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_HeavyFootstep_Enemy\SFX_Footstep_Monster_09		9194
+	360263562	VA_Mother Letter 587	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\17\{1787A396-3619-3796-6AF2-2DAE9E0D7245}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter5\VA_Mother Letter 587		72928
+	362413796	SFX_Spellcasting_Loop	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4F\{4F2AD4FF-88CC-B70F-1513-D9F91DDF22A1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Lights\SFX_Spellcasting_Loop		572706
+	365620817	SFX_CreepyPiano_21	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\21\{21B32D2E-13FD-1D5D-1FC1-3081DF76AB53}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_21		66664
+	366761003	VA_Mother Letter 247	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9F\{9F69C24B-5A58-63A8-AE73-35C125B2C38D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter2\VA_Mother Letter 247		24223
+	369543389	SFX_Lantern_Burn_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\85\{856BBDAC-BE89-65F3-4F95-06CE4AAB8D84}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\RAND_Lantern_Burn\SFX_Lantern_Burn_02		43881
+	374543336	SFX_BreathIn_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CA\{CAA2E78B-46F9-636A-B226-497BA7B1E9D1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathIn\SFX_BreathIn_04		6115
+	375635872	SFX_IceStep_Run_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F9\{F957C399-5903-B877-C795-827E4F7A978D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_IceSteps_Run\SFX_IceStep_Run_05		5616
+	376173385	VA_Mother Letter 244	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\18\{183AD1E0-12DB-9089-F0C9-5D310B551052}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter2\VA_Mother Letter 244		66631
+	378420638	SFX_MetalAmbience_Creak_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D9\{D9C1403B-8D3B-BFF8-7B0F-950BEFBA58C5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalCreak\SFX_MetalAmbience_Creak_4		40094
+	379628266	MUS_Finale	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9B\{9BF5F838-C3DC-2208-62DF-ECB7462F842D}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_Finale\MUS_Finale_Beat12_Base_ARP+Solo_76BPM_01\MUS_Finale		2800220
+	380046112	SFX_Creaky_Door_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\65\{65716D5F-25FE-BD19-6081-17A7B197B9E0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Doors\RAND_CreakyDoor\SFX_Creaky_Door_02		29870
+	380048490	SFX_Monster_Croak_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\56\{560A5FCD-F956-8CC3-FFF9-A95676A45E8F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\New Voice\Idle\Croak\SFX_Monster_Croak_05		38370
+	380572391	MT_Pursuit_DeathOutro	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D1\{D1811933-6522-0D50-E92E-03072424A127}.wem		\Interactive Music Hierarchy\Default Work Unit\MSC_Pursuit\MSG_PursuitMusic_DeathOutro\MT_Pursuit_DeathOutro		193290
+	381496483	SFX_Player_Breathing_Strained_11	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F3\{F3180E66-A615-F0A0-9882-DF86C3A6AAC5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_11		26208
+	384060375	VA_Mother Letter 354	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F5\{F54E78AC-EBEC-16FF-84F9-AEBD299E3E81}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter3\VA_Mother Letter 354		16178
+	384156339	VA_Mother Letter 6101	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B2\{B2EB3B2D-EF4C-B7C6-8BDE-C6EB9F4BCDB6}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\VA_Mother Letter 6101		32991
+	385036636	SFX_MetalAmbience_RoughScrape_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EA\{EAF95405-26E4-A5BF-55C6-8C1A2E7E1A49}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalScrape\SFX_MetalAmbience_RoughScrape_2		71694
+	389311315	SFX_Creaky_Door_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\64\{648C31C2-ABF0-EB1C-27DA-1989AD078FF5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Doors\RAND_CreakyDoor\SFX_Creaky_Door_01		28214
+	390186130	SFX_Snow_Walk_Step010	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\58\{5889F4C2-A9A3-B69D-8257-A404B66CF66F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step010		7416
+	390877782	SFX_Wood_RunStep_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D4\{D41CF809-CBF0-D831-1E4D-3E0197483394}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_09		3481
+	391856779	SFX_Player_Breathing_Strained_10	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4A\{4A750382-9044-6C1C-33C3-0830DCAAB4C9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_10		25939
+	392011800	SFX_LightningVFX03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\65\{652356B3-CA27-A444-7531-153CB4037E7C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Copper\SFX_LightningVFX03		7778
+	395392345	VA_Mother Letter 133	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B5\{B53E13A3-73C9-D83B-B538-0A7DF6300F3E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt2\VA_Mother Letter 133		90524
+	396253760	SFX_CaveDrops	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D1\{D13BD466-DFDF-3CC8-D8F4-C214056BF25F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\SFX_CaveDrops		450254
+	397975828	SFX_Monster_Confused_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8D\{8D6E7A4D-2316-062B-E7E0-5E3ED6FCF50F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Confused\SFX_Monster_Confused_04		48200
+	398018574	SFX_Monster_Tired_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A4\{A4BB3C39-50CF-458D-4BA5-14B0FFAF4DA7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\New Voice\Breaths\Tired\SFX_Monster_Tired_03		85773
+	398085640	SFX_Ambience_Bass_13	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5F\{5FA3AC98-2AF1-F298-B02E-62D0C6F32588}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_13		44489
+	399338137	SFX_BreathIn_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\68\{68CACF45-5F2E-E977-6988-073E8F5F0670}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathIn\SFX_BreathIn_01		5246
+	401208645	VA_Mother Letter 355	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B6\{B6E76A72-5B2F-7D9A-53F4-1896F07C21CE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter3\VA_Mother Letter 355		41823
+	404024344	SFX_Player_Breathing_Nasal_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\29\{290E1F99-87BB-C77D-C403-505FC1904D5F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_NasalBreathing\SFX_Player_Breathing_Nasal_09		13901
+	406562155	FirstTimeMonsterSpotted	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5A\{5A122767-7D37-63C7-FBF6-830CA52858F6}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\FirstTimeMonsterSpotted		185400
+	407980604	SFX_Ambience_Bass_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5D\{5DD7CDFF-C7F6-A0AE-F65A-E7CC18A7EBC9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_02		46428
+	410610672	SFX_Monster_Tired_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CB\{CB577191-66C9-8B9A-BAB1-784502BEFD2D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Tired\SFX_Monster_Tired_03		86356
+	411506159	SFX_PutDown_Ore_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9C\{9CE92432-C5FA-1C30-50E7-227BD754EA1A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Ore_Putdown\SFX_PutDown_Ore_5		8571
+	412675768	VA_By Jove16	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A4\{A422C5B8-456B-383A-8F92-13CFA3587811}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\VA_By Jove16		12465
+	416061449	SFX_Ice_Pickup_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5B\{5B453D04-7867-C355-D216-79A95338B9E9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Ice_Pickup\SFX_Ice_Pickup_03		13653
+	417201601	SFX_WoodAmbience_7	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\39\{39038A7E-A802-DC73-1470-9D12A47B9431}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_7		165584
+	418800097	SFX_Metal_walk_step04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\26\{26308FC3-4B07-341C-8FC7-C810E32295FE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_MetalSteps_Walk\SFX_Metal_walk_step04		2923
+	421458304	VA_Mother Letter 468	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E3\{E32E25C7-7AF4-B681-6FB3-CC79530F4625}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 468		30902
+	421575645	SFX_Metal_walk_step06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\08\{0888EC58-77CE-E013-E480-F3088E703A1B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_MetalSteps_Walk\SFX_Metal_walk_step06		2747
+	423758027	SFX_Smokebomb01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\71\{7105540F-EBA1-D5C0-1AB8-3F49FA2B633A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Obsidian\SFX_Smokebomb01		29870
+	424259103	SFX_Book_Opening_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BD\{BDD82637-A2B2-2257-FA87-7DD24E55E829}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Opening\SFX_Book_Opening_5		14465
+	425130913	SFX_Monster_Croak_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\44\{447C1BC8-0FF1-405A-26C4-98DEA83FA4A3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\New Voice\Idle\Croak\SFX_Monster_Croak_03		24454
+	425902728	SFX_WoodAmbience_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\16\{1605FE12-F2DF-4655-2482-395788702FF1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_2		59052
+	427735518	SFX_PianoBrush_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0A\{0ABCE4AA-1992-430F-8FD5-3904E16361A0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_PianoBrush\SFX_PianoBrush_03		131661
+	428134734	SFX_TotemSpell_SonarPulse	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2E\{2E5311ED-FDEB-9D48-FC04-401712D69012}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TotemSpell\RAND_TotemSpell_SonarPulse\SFX_TotemSpell_SonarPulse		33173
+	431364590	SFX_Trap_Arm_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\92\{92765008-2EAE-2960-6C94-4240468E8D9A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Trap Spell\RAND_TrapSpell_Place\SFX_Trap_Arm_1		34731
+	435182283	SFX_MetalAmbience_RoughScrape_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DD\{DD98DD91-18A4-9D5D-1DB8-7221B9A2F4B2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalScrape\SFX_MetalAmbience_RoughScrape_1		34880
+	442577266	SFX_SpellcastVFX_Redo_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\34\{34D9C08C-9F55-35C6-CD3C-001F4C98937F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\SFX_SpellcastVFX_Redo_1		52103
+	442699774	SFX_Putdown_Plant_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A0\{A06977E4-124C-023E-17C9-7C6F2D1290C2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Plant_Putdown\SFX_Putdown_Plant_2		4060
+	443050075	SFX_Footstep_Monster_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6D\{6D016DEE-909A-4D0F-0D94-15983B0DA987}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_LightFootstep_Enemy\SFX_Footstep_Monster_01		7791
+	444204622	SFX_BreathIn_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D7\{D70E74D0-C4A6-746D-F212-8664BFC73831}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathIn\SFX_BreathIn_05		5242
+	445605788	SFX_PianoBrush_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FB\{FBA0E205-494B-4EF1-6B0E-DCF7FCBA1A8F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_PianoBrush\SFX_PianoBrush_01		38695
+	447945317	VA_Mother Letter 6104	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AB\{AB4FD126-62F7-667C-3A81-A8F6EF6D47A5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\VA_Mother Letter 6104		20943
+	448269226	VA_Mother Letter 139	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\96\{963600C1-D1E4-B9A2-1B4E-60864C38DDA5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt2\VA_Mother Letter 139		21848
+	449118344	SFX_BreathOut_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2B\{2B20E31C-62B1-EB3D-D1E8-B5BB531441AE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathOut\SFX_BreathOut_01		5086
+	451895088	SFX_PutDown_Ore_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5C\{5CD35C88-C13F-61AB-F536-EAB0521DDEC0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Ore_Putdown\SFX_PutDown_Ore_1		5241
+	453514950	VA_Mother Letter 359	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\58\{58537832-8519-EF8C-9308-BD6692157568}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter3\VA_Mother Letter 359		46752
+	454094618	SFX_Player_Grunts_Medium_08	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A0\{A0436D2E-E675-6887-1A9C-C5150D8CD0E2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_08		9459
+	458052323	SFX_SubtitleTest02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7D\{7DB61697-02D4-D079-A95B-4F8D4FF9C257}.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoiceActing\Test\SFX_SubtitleTest02		48157
+	459395989	Gravel Footstep _9	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B6\{B6D13E73-EDD7-DD09-2D98-66DFBEC7EBFC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_GravelSteps_Run\Gravel Footstep _9		4024
+	459699242	SFX_Monster_Tired_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AA\{AACB311A-46C3-3395-0F88-1EC85CCFAC23}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Tired\SFX_Monster_Tired_02		51739
+	460000444	SFX_IceStep_Run_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\72\{72AB3BFE-AEC6-E67B-757A-B1D872F5DFF5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_IceSteps_Run\SFX_IceStep_Run_06		5663
+	462826023	SFX_CreepyPiano_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E0\{E021D9EF-5BCB-64DE-5DF2-0552BD64D101}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_07		39610
+	465123955	Gravel Footstep _9	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8C\{8C3B5A72-7FDE-22D6-CCDD-2DC7A3B8E323}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_GravelSteps_Walk\Gravel Footstep _9		5732
+	466309130	SFX_SpellCastNodeRedo04_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E5\{E5D0721D-9D16-9580-4178-07CDD7AFBA31}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\RAND_Spellcasting_Node\SFX_SpellCastNodeRedo04_1		19445
+	470807405	SFX_Ambience_Bass_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1D\{1D318828-A39C-A4C6-C88C-E7F05224E793}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_06		105159
+	471301384	VA_Mother Letter 253	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CC\{CCC6E0A4-99CC-E494-3D6C-BA5D4162DD3E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter2\VA_Mother Letter 253		55142
+	472604414	SFX_Ice_Pickup_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6E\{6EB21B8B-F6B8-7472-CCE5-5FF88B10286D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Ice_Pickup\SFX_Ice_Pickup_01		10511
+	473143237	SFX_LightningVFX04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\23\{2397AEE0-BED4-6D3B-F89C-43E4A3B8C73D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Copper\SFX_LightningVFX04		7246
+	473295092	SFX_PutDown_Crystal_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\57\{570FD3DA-AED7-DCCF-8E45-33082A3D083E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Crystal_Putdown\SFX_PutDown_Crystal_3		15991
+	474523579	SFX_MetalSqueak_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E1\{E1A9055E-BF7A-2504-2C2F-AA279FBBF489}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalSqueak\SFX_MetalSqueak_1		8962
+	476138220	VA_Mother Letter 126	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\00\{00142048-6457-8F6E-A03D-8C3D57A57F3F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt1\VA_Mother Letter 126		40224
+	479742982	SFX_Book_Writing_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\17\{17D9F16F-651B-D492-44D7-E0674367938D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Writing\SFX_Book_Writing_04		18200
+	480347600	VA_Mother Letter 243	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5E\{5EF0393F-C800-A9AA-B105-CF834539A44E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter2\VA_Mother Letter 243		52769
+	480996613	SFX_Book_Writing_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DE\{DEF852FB-97E4-4F15-5C06-D93E511AEF5F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Writing\SFX_Book_Writing_03		16023
+	481794714	SFX_Utility_Spell Switch_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2D\{2D6624ED-B3AC-7D45-6043-699C83473E59}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\RAND_Mute_Switch\SFX_Utility_Spell Switch_03		16312
+	481877103	SFX_Wood_RunStep_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0E\{0EA6E584-94B9-6CD2-80C2-3ADB83C51FA4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_02		3127
+	482368528	SFX_PutDown_Ore_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FD\{FD1BD67F-24FA-500C-1105-FFF3957DD4B1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Ore_Putdown\SFX_PutDown_Ore_4		7997
+	484087895	VA_Mother Letter 246	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\01\{018D8DD9-51CE-700B-E023-0D24A70F6EA4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter2\VA_Mother Letter 246		35521
+	487100805	VA_What The Hell Was That01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\98\{981CEC3C-CFE6-FA6A-37DD-E769E2E3709C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\What\VA_What The Hell Was That01		35141
+	488178798	SFX_Dmg_StalactiteImpact_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\12\{12BFF57B-3341-C31F-207F-E26A39F14644}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Stalactite\RAND_Stalactite_Impact\SFX_Dmg_StalactiteImpact_01		6995
+	489337470	SFX_Player_Death_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CA\{CA606378-95B6-F35B-6DA1-CB3F2A6041E0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Deaths\SC_Death\RAND_DeathCry\SFX_Player_Death_2		9439
+	489369618	SFX_Book_Writing_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\42\{42690E1E-0280-6360-4FEF-16AAC0B7DCF4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Writing\SFX_Book_Writing_02		17939
+	489814740	Gravel Footstep _1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F0\{F0BA2AD6-C81B-A881-188D-FEEC57E031F2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_GravelSteps_Run\Gravel Footstep _1		4864
+	490319824	SFX_Snow_Walk_Step04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B9\{B9E551D4-88F0-DAC9-90CF-53F02350B4ED}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_SnowSteps_Walk\SFX_Snow_Walk_Step04		10748
+	491240548	VA_Mother Letter 467	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7C\{7C59CD92-B5CE-BD46-5BF1-D1A8C82DAC4E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 467		77176
+	492883570	SFX_Spellcast_Cancel	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\52\{52320C99-35FD-9579-577C-8E153707A610}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\SFX_Spellcast_Cancel		35310
+	496799152	SFX_MetalAmbience_Creak_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\84\{84859ED5-E83B-8F07-E477-75CB3437644E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalCreak\SFX_MetalAmbience_Creak_1		45375
+	499465910	SFX_PianoBrush_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B1\{B10D921A-05DB-831C-D54B-D60308C207EF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_PianoBrush\SFX_PianoBrush_02		142207
+	501327843	SFX_Key_Unlock_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\29\{29BB4A13-6361-DFB5-6271-0BD0ADE1D892}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\KeySpell\RAND_KeySpell\SFX_Key_Unlock_02		15614
+	506462396	SFX_ChainsRattling01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7C\{7C692499-3F28-A962-9EC7-FA6AB0F37DF5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Iron\SFX_ChainsRattling01		10967
+	506904963	SFX_Player_Breathing_Strained_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\17\{17D5353F-BCD1-9875-F4FF-CBE00E2DFD50}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_09		26547
+	507994322	SFX_Putdown_Ash_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EF\{EF9123C5-6F8E-1D41-F302-1A303B7C11DB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Powder_Putdown\SFX_Putdown_Ash_1		6639
+	510816053	SFX_CreepyPiano_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\85\{850B1A3A-7842-379E-995C-EF3357366ADD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_04		41296
+	512334211	SFX_Player_ChokingGrunt_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C1\{C1ABA036-45C7-98C3-4025-0CEFD86A59B4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Deaths\SC_Death\RAND_ChokingGrunt\SFX_Player_ChokingGrunt_3		17328
+	518465344	SFX_ExplosionSpell_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A2\{A2326CA1-A43B-A20E-CD93-00489EB43079}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Sulfur\SFX_ExplosionSpell_04		53810
+	519224057	VA_Mother Letter 470	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\25\{25EC954C-5183-A839-AA7C-1B627CEBCE8A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 470		68675
+	523060445	SFX_Metal_walk_step05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\46\{46E5DF65-E649-F950-A242-F74334CE24FC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_MetalSteps_Walk\SFX_Metal_walk_step05		2771
+	524668175	SFX_Soundwave02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E2\{E2CE109A-3599-BD1B-FA37-A83B31763CD4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Bone\SFX_Soundwave02		52596
+	527802909	VA_Mother Letter 473	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6A\{6AB77A03-514A-F3FD-9E57-7E6CD2F381D3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter4\VA_Mother Letter 473		31243
+	528715448	Lantern Squeaking ambience05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3C\{3C0BDD81-910E-5991-C1FD-AFAF9D33CF1A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\Lantern_Squeak\Lantern Squeaking ambience05		6843
+	530067565	VA_Mother Letter 138	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\77\{77B2E884-FDA4-0C34-165B-F8B529CF95BD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt2\VA_Mother Letter 138		57819
+	532815664	VA_Mother Letter 466	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7C\{7CDF2FD3-2E13-2E68-ECE2-260BE8679BD2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 466		42158
+	536493877	SFX_Lantern_Burn_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BE\{BE32F5E6-C669-C183-D24B-15CB6980880D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\RAND_Lantern_Burn\SFX_Lantern_Burn_03		47475
+	536933190	VA_Mother Letter 475	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\96\{96BA82CE-228B-15B5-430D-5E6F0B372450}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 475		81416
+	538769375	MUS_LevelOne_Surface_120BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3D\{3D8796D7-A61A-D9A1-849D-82BC4C5A9BF8}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_LevelOne_Surface_120BPM\MUS_LevelOne_Surface_120BPM\MUS_LevelOne_Surface_120BPM		1755630
+	539311882	SFX_Elevator_Loop	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\93\{933D2C84-C342-A1CE-6B0F-90CFE9F22D99}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Elevator\SFX_Elevator_Loop		281965
+	539341116	SFX_Monster_LoudRoar_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5E\{5E910BF6-9CD2-B6B6-0F03-7555C5DA16C6}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Attacking\LoudRoar\SFX_Monster_LoudRoar_02		35838
+	540585921	VA_Mother Letter 248	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5F\{5F4D7F54-2C23-421F-237B-4F8E7D85D993}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter2\VA_Mother Letter 248		35466
+	543096952	SFX_PianoNote_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\75\{75806D6C-F462-EB3D-21DD-9094110EB028}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PianoNote\SFX_PianoNote_01		151797
+	543624634	VA_Mother Letter 480	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\92\{92F7E633-8DCE-4CF8-D640-0FD92D62BAC8}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter4\VA_Mother Letter 480		18235
+	544514459	VA_Mother Letter 6102	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\17\{17756A4E-2628-BDDD-1F5F-9E53C7436D84}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\VA_Mother Letter 6102		68472
+	549067173	SFX_Wood_WalkStep_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\95\{954AF5C8-77D3-F8E6-B197-3B30CBE84A64}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_04		4351
+	555855957	SFX_Putdown_Plant_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\20\{2056034E-888E-3F1D-97C4-AAFAF31ABBC0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Plant_Putdown\SFX_Putdown_Plant_3		3786
+	556458084	SFX_Fire_Click	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B8\{B8F7DB02-9A7E-6DF1-91ED-669CC0752872}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Lights\SFX_Fire_Click		3685
+	560413339	SFX_Trap_IdleLoop	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3D\{3DA218E8-3B45-5E92-DD81-F5C08F7457E1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Trap Spell\SFX_Trap_IdleLoop		528163
+	560602436	SFX_Book_Close_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\60\{60202E10-9D12-FF15-7E78-1A2F35F2E3F3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Close\SFX_Book_Close_01		2834
+	561250054	SFX_Soundwave03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E3\{E372A1C1-1BD6-CFD9-D5D3-F3EF7DA142B4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Bone\SFX_Soundwave03		54437
+	561630602	SFX_DoorLockFeedback03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0A\{0A5971C3-319D-9A06-3910-4C61EF1D5136}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Doors\RAND_LockedDoor\SFX_DoorLockFeedback03		10255
+	561983434	SFX_Ambience_Bass_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\91\{918510C9-0951-4DCE-CFA3-C686629D122B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_07		89071
+	564135505	SFX_Pickup_Plant_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DB\{DB9C4ED3-7E23-D014-3E73-458236315B88}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Plant_Pickup\SFX_Pickup_Plant_2		7992
+	564138465	VA_Mother Letter 356	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\65\{657ED44D-D5DD-BA4B-58BC-81225CD4F003}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter3\VA_Mother Letter 356		68573
+	565329988	SFX_Trap_Arm_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B3\{B304B6A6-468C-2C48-FAEF-429FF5AD7C50}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Trap Spell\RAND_TrapSpell_Place\SFX_Trap_Arm_3		38669
+	566263422	SFX_Player_Breathing_Nasal_08	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\95\{9549FE1A-5479-57EA-6E93-708554D43691}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_NasalBreathing\SFX_Player_Breathing_Nasal_08		13038
+	567913088	SFX_Book_Opening_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7A\{7ABB371A-8243-92C2-824D-3BABD16DDCA2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Opening\SFX_Book_Opening_4		15488
+	568269307	SFX_Monster_LoudRoar_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\23\{23664AA6-CF11-661D-706C-DB8B81ABD96E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Attacking\LoudRoar\SFX_Monster_LoudRoar_03		23989
+	568466589	SFX_BreathIn_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8C\{8CF561E8-5DED-C42F-1D37-770F76F265DE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathIn\SFX_BreathIn_03		5479
+	569044979	SFX_Ambience_Bass_10	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C1\{C1F6DC76-08E0-20D4-E23B-C7237221C246}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_10		87066
+	571309270	SFX_Elevator_StallOut	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\68\{689F6121-FF7A-CDA2-A99E-B969F3C27B9C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Elevator\SFX_Elevator_StallOut		89641
+	577032908	SFX_CreepyPiano_22	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3B\{3B8C425E-867D-4E5B-5602-BB568916AF5C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_22		60952
+	577167576	SFX_PickUp_Bone_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0C\{0C469EBF-B00E-C872-DEAB-ACC4DDFC9992}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Bone_Pickup\SFX_PickUp_Bone_4		12225
+	578668202	SFX_Ambience_Bass_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F6\{F61B08AC-5D00-9A80-837C-C3DBF44276DE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_04		77696
+	579510604	SFX_Footstep_Monster_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7C\{7CB4CBF4-1632-34C7-1429-314C83287EA1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_LightFootstep_Enemy\SFX_Footstep_Monster_03		8365
+	579647164	VA_Mother Letter 465	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5A\{5AB6FB23-D7D0-77BE-C4CC-18091195F2BA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 465		13216
+	581544541	SFX_Player_Grunts_Heavy_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B0\{B0EF05E0-62FB-C6F3-4BF3-6A9EE4A0E87F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_HeavyGrunt\SFX_Player_Grunts_Heavy_05		8363
+	584074239	SFX_PickUp_Bone_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\49\{49AC41EE-5D0D-4CA5-D2D6-A1D892FDD7F8}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Bone_Pickup\SFX_PickUp_Bone_2		8272
+	586774741	SFX_Snow_Walk_Step09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DC\{DC2F0DE8-C1DA-D8EC-1311-A3CF8C357CC8}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step09		7938
+	591979321	VA_Mother Letter 242	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0F\{0FBC3868-3BDB-A44C-A4F8-648C4ACFB000}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter2\VA_Mother Letter 242		18583
+	595212189	SFX_WoodAmbience_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C1\{C1DD473F-E599-0FBD-1514-2D0476C19B5C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_3		41430
+	596356240	SFX_ExplosionSpell_Projectile	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C1\{C1DA9B03-9A06-F61B-7E59-7B1DC9C09E8D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\ExplosionSpell\SFX_ExplosionSpell_Projectile		34455
+	596744842	SFX_Monster_DistanceWail	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BF\{BF16C466-10BA-FCE3-9E4A-BCE8A4F4CFD0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Ambient\SFX_Monster_DistanceWail		27917
+	598111909	MUS_Credits_96BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\62\{62AE8ECD-E3B9-E029-5DCB-E834B8EF3A95}.wem		\Interactive Music Hierarchy\Default Work Unit\MSC_MainMenu\MPC_Credits\MUS_Credits_96BPM\MUS_Credits_96BPM		2793102
+	600318933	SFX_Book_PageTurn_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FF\{FF3C6FF8-317F-4C04-1B15-39CEF22577C3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_PageTurn\SFX_Book_PageTurn_1		21761
+	601100264	SFX_Spell(hasbeencasted)	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1C\{1C8C1E7B-D1BD-19FB-95CB-3E1AEDED68BA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\SFX_Spell(hasbeencasted)		67482
+	602501353	SFX_PickUp_Ore_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\60\{60C91126-6861-B8BA-A74B-52A781A36A2A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Ore_Pickup\SFX_PickUp_Ore_5		14812
+	607132224	SFX_MetalAmbience_Creak_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\30\{305569EB-5C5C-D42D-CB9E-834DF2BDD06E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalCreak\SFX_MetalAmbience_Creak_3		31755
+	608050662	Lantern Squeaking ambience04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FB\{FB6E488C-7705-C958-EA4A-789BB476857D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\Lantern_Squeak\Lantern Squeaking ambience04		7079
+	608457842	SFX_SpellCastNodeRedo05_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9A\{9A559372-6CC7-30A1-E881-A7090F3A4657}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\RAND_Spellcasting_Node\SFX_SpellCastNodeRedo05_1		21034
+	611190479	SFX_WallBreak_Rock_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\27\{27478B10-35D4-8CC9-9EB1-D720E3F588F0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\RAND_WallBreak_Rubble\SFX_WallBreak_Rock_4		11123
+	616227615	SFX_Player_Breathing_Nasal_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\84\{842384CD-D4F5-CF75-2455-7DF45F3B9252}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_NasalBreathing\SFX_Player_Breathing_Nasal_01		16999
+	617299945	VA_Mother Letter 695	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A1\{A14B73C2-FFEE-4FBA-CC1D-09D808941D04}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter6\VA_Mother Letter 695		28211
+	617362190	SFX_Pickup_Plant_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DC\{DCADDB0E-5594-9299-EBA5-B88209E2A44D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Plant_Pickup\SFX_Pickup_Plant_3		6620
+	620590345	SFX_Player_Death_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D7\{D798E8A7-126F-27FD-9318-337D9106405B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Deaths\SC_Death\RAND_DeathCry\SFX_Player_Death_3		8657
+	620713719	SFX_MetalAmbience_Creak_6	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1A\{1A7B1747-A0E5-2342-8DCB-EA5E34CB18BC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalCreak\SFX_MetalAmbience_Creak_6		27019
+	623114840	Gravel Footstep _6	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1A\{1AD7D5D2-6E4B-2FCA-C6BC-5DF50ADE090E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_GravelSteps_Run\Gravel Footstep _6		5292
+	626129770	SFX_CreepyPiano_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7E\{7E347889-4C07-B117-A4B9-680BEFF0DA38}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_09		80610
+	627938931	SFX_LightningVFX02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B7\{B776EEFB-CAE3-42EA-B8DF-AF4DA9246992}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Copper\SFX_LightningVFX02		7282
+	628644666	SFX_MetalAmbience_Groan_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C7\{C7743507-2C26-DB84-FBF0-0236C4FBB376}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalGroan\SFX_MetalAmbience_Groan_4		24359
+	628912020	Silence	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CC\{CCDD4DFE-6DB4-ECCD-BACA-03201187F8FD}.wem		\Interactive Music Hierarchy\Default Work Unit\MSC_MainMenu\MPC_Credits\Silence\Silence		1258559
+	630065414	VA_Mother Letter 363	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DE\{DE3E0E0E-5330-0E46-3B4C-B824E3013A3D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter3\VA_Mother Letter 363		43247
+	634300745	SFX_IceStep_Walk_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\18\{18440B1D-C945-54FE-E4A1-5432C1529585}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_IceSteps_Walk\SFX_IceStep_Walk_05		9087
+	635022823	SFX_LanternFire_Revisit	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3D\{3DB43A94-7485-A89B-24C3-773E991A0984}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\SFX_LanternFire_Revisit		252562
+	635918541	SFX_Monster_Confused_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\01\{01E041F8-0B23-0E84-605C-09B1ED67431F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Confused\SFX_Monster_Confused_02		24221
+	636678511	SFX_Putdown_Ash_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\08\{089434A2-1BC4-BEEB-7A0F-E338977B1407}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Powder_Putdown\SFX_Putdown_Ash_4		6403
+	636769243	MUS_Tutorial_102BPM_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\37\{37ACC863-74EC-D362-27DC-77831652CB73}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_Tutorial\MUS_Tutorial_102BPM\MUS_Tutorial_102BPM_01		6142298
+	637277718	Lantern Squeaking ambience01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EA\{EAFCCA00-A24F-94C8-B896-33152331C972}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\Lantern_Squeak\Lantern Squeaking ambience01		9106
+	639979771	SFX_ExplosionSpell_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CB\{CB563A17-8DAF-3B82-149C-4E8225188F08}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Sulfur\SFX_ExplosionSpell_01		45534
+	640163051	SFX_CreepyPiano_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C8\{C8984FB6-0131-7DC2-C676-06A0EE992178}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_CreepyPiano\SFX_CreepyPiano_03		76125
+	641878858	SFX_IceStep_Run_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\31\{31595ED2-A4A2-B26C-1A50-C07D3BBAF8E2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_IceSteps_Run\SFX_IceStep_Run_02		5797
+	642707122	SFX_PutDown_Ore_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BB\{BB63B90F-31D2-A212-D3F3-13DB32E03056}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Ore_Putdown\SFX_PutDown_Ore_2		11194
+	646758900	SFX_PickUp_Ore_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\56\{56CD7809-24F2-63EA-4623-58E0B0A03A6F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Ore_Pickup\SFX_PickUp_Ore_3		10112
+	647084859	SFX_PianoBrush_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\98\{98B45076-A831-CC2D-7CE4-3DE3A9CC527A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_PianoBrush\SFX_PianoBrush_04		90194
+	647992378	SFX_Player_Grunts_Medium_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B5\{B5EFBC9A-F8D5-B7BA-5A32-65A27077D8DE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_07		5113
+	648499520	SFX_Player_Breathing_Strained_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9C\{9C7F0FD0-98A6-9F2A-B4BB-D7D6D510B846}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_04		27952
+	649612673	SFX_Player_Breathing_Strained_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\47\{478118A2-1B7C-6A5F-CA6A-F5839EEE9ECB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_03		27531
+	652708324	Gravel Footstep _6	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\23\{237AE88D-C723-8B97-AB34-D0FABBF39327}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_GravelSteps_Walk\Gravel Footstep _6		7057
+	655559987	SFX_Book_Close_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\67\{678247F9-64D7-CDCC-4FD0-BD4C5570507D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Close\SFX_Book_Close_03		3874
+	662050079	SFX_CreepyPiano_23	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4A\{4A8AEB00-3B79-5DAE-A164-4F61D7A0D432}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_23		125282
+	663325120	Gravel Footstep _4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F8\{F8E2D2BE-FEBF-B064-8BAC-5D42DA1BAC7B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_GravelSteps_Run\Gravel Footstep _4		4667
+	664872525	SFX_PickUp_Ore_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8D\{8DF8B907-6763-1988-8E0D-BACE283B75A2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Ore_Pickup\SFX_PickUp_Ore_4		11831
+	664883862	SFX_Cloth_Sounds_20	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D9\{D9FFE77A-2E13-6F70-6DA5-0F82E1D5484D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Cloth\Cloth_Deep\SFX_Cloth_Sounds_20		9969
+	665308121	SFX_Crafting_SubSlot1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6A\{6AA7F8F5-0304-4F7C-DE41-5CEF5CC54F57}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Crafting\RAND_Craft_SubSlot\SFX_Crafting_SubSlot1		34010
+	669769365	SFX_MetalAmbience_RoughScrape_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\92\{921A4B9F-4CE4-A2F6-0EAE-966D67F3CD61}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalScrape\SFX_MetalAmbience_RoughScrape_3		74390
+	673261095	MUS_ArcticGuitar	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AF\{AF7D521C-BD6C-9CDF-0CDA-E1E9F73BBD97}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_ArcticGuitar\MUS_ArcticGuitar\MUS_ArcticGuitar		4022978
+	677705689	SFX_SpellCastNodeRedo02_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D9\{D9311C20-08DE-8492-B559-04D933683596}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\RAND_Spellcasting_Node\SFX_SpellCastNodeRedo02_1		17001
+	680108644	SFX_SulphuricVents	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E0\{E04C1ECF-C0A5-2848-37C0-744D9B0BD70F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\SFX_SulphuricVents		164201
+	680259045	SFX_Wood_WalkStep_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A0\{A03A152E-FAF7-6F0C-877A-041CAA9023C5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_06		4973
+	681196229	SFX_WallBreak_Rock_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\52\{52B91E3B-32C4-7010-BCA5-B6E8DFC7E76E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\RAND_WallBreak_Rubble\SFX_WallBreak_Rock_1		13308
+	681604223	SFX_Monster_Wail_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\72\{728D747C-218D-C4BC-EAE7-E3DCC9DFE918}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\New Voice\Wail\SFX_Monster_Wail_01		38726
+	683574748	SFX_Potion_Tonic_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C1\{C1921A06-0E9B-8968-F433-6372576E913E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TonicSpell\RAND_TonicSpell\SFX_Potion_Tonic_04		31591
+	684327272	SFX_Player_Breathing_Quick_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C5\{C5F9C309-60A6-D7EC-8052-FFB33A7DDC93}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_04		9525
+	685790368	VA_Mother Letter 592	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BD\{BD8484FC-51E1-5338-8030-3FBE85B631C2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter5\VA_Mother Letter 592		42663
+	694188187	VA_Mother Letter 694	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F3\{F34E595C-BA25-BC95-09F5-6B0C53723771}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter6\VA_Mother Letter 694		25374
+	694548237	SFX_MetalAmbience_Creak_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\01\{0171C530-E85E-C4D1-F5A7-1E17F8C630CE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalCreak\SFX_MetalAmbience_Creak_2		24786
+	696340672	SFX_Player_Breathing_Quick_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\73\{73E5EBE4-1FC4-0664-3AAF-2E91B0CDC2BD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_05		9705
+	699267066	SFX_CreepyPiano_26	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\54\{54B2EE48-518E-7A53-3B7D-75EC498FD546}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_PianoBrush\SFX_CreepyPiano_26		107059
+	699704606	SFX_PickUp_Crystal_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\61\{61294BF8-9260-21D3-772F-8D2D6D4BBE5A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Crystal_Pickup\SFX_PickUp_Crystal_1		10354
+	703529145	SFX_Wood_RunStep_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\58\{5850DF6A-1A62-0E52-29D5-6D800C8379C7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_05		3610
+	703978708	SFX_Wood_WalkStep_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\09\{0921B8AB-6A31-DD8A-31CE-79BBB04CF4EC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_01		4458
+	708101552	SFX_IceStep_Walk_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0E\{0E289A61-CE2B-A851-0B90-FDE160A5AF9F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_IceSteps_Walk\SFX_IceStep_Walk_04		8531
+	710284140	SFX_Player_Grunts_Medium_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F3\{F3A42E9F-A5F4-C6B2-CF57-C188A7668236}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_02		8775
+	710450286	VA_Mother Letter 589	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\79\{79DC9827-3779-A52D-1995-ACB505DBDF98}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter5\VA_Mother Letter 589		70787
+	710625215	SFX_TrapSpell_Break	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C0\{C0606E03-8F01-E418-F36A-38A885F60990}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Trap Spell\SFX_TrapSpell_Break		44217
+	710908967	SFX_Player_Breathing_Strained_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DC\{DCEF8DBD-2DBF-F1A6-3DC2-2C9B1B6863CA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_07		22615
+	714149318	SFX_Book_PageTurn_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\90\{90DADBFA-5D11-914E-9AC1-F4DC605C9A66}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_PageTurn\SFX_Book_PageTurn_3		17524
+	715315416	SFX_BeamofLight01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\99\{9943E4B4-D8BC-9F02-1E41-ED2AD18E4572}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\SFX_BeamofLight01		26543
+	716322061	SFX_TotemSpell_Place_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\86\{86521DDC-A36F-8C33-6703-945279F95D0F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TotemSpell\RAND_TotemSpell_Place\SFX_TotemSpell_Place_3		12675
+	718745521	SFX_Ambience_Bass_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E7\{E75E3E66-2CDC-B14E-5604-D899459E1A27}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_05		77852
+	719570899	VA_Interesting13	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DE\{DE02D70E-B9C9-61BB-4055-9BCF133446EF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\Interesting\VA_Interesting13		15080
+	720117960	VA_Mother Letter 6100	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EB\{EB2645DD-3543-16D2-E60D-A6C9940FFE58}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\VA_Mother Letter 6100		49184
+	720775822	SFX_Ambience_Bass_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\92\{9221D225-8CDD-2140-74B2-95624C5651A9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_01		125992
+	722297713	SFX_PutDown_Bone_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9C\{9C471240-6C34-C24A-30C2-0E066FBDBD56}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Bone_Putdown\SFX_PutDown_Bone_5		13455
+	724409923	SFX_ExplosionSpell_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FB\{FB02ED43-597C-B72D-6442-136D93BD7338}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\ExplosionSpell\RAND_ExplosionSpell\SFX_ExplosionSpell_04		53186
+	724575566	VA_Mother Letter 6103	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CA\{CA84EF4D-260F-C376-6B8B-2167AAA064BF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\VA_Mother Letter 6103		22784
+	724643634	SFX_IceAmbience_8	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2C\{2C5AADA1-A5BF-B323-5125-01018C85B520}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_Ambience_Ice\RAND_Ambience_IceDrops\SFX_IceAmbience_8		630612
+	726150686	SFX_BreathOut_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1C\{1C5EC758-EED9-1C3F-574F-B12210E7C810}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathOut\SFX_BreathOut_04		5871
+	729362243	SFX_CreepyPiano_10	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BB\{BB412E61-9501-4BC1-EA17-F215DF163B97}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PummeledPiano\SFX_CreepyPiano_10		117588
+	729816434	SFX_Player_Grunts_Medium_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E5\{E506EA4A-752E-9804-9778-7D7F18B2FB0F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_06		11882
+	731257626	SFX_PianoNote_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A6\{A64AA987-3711-CB5B-8192-817CEE8ED66E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PianoNote\SFX_PianoNote_04		188005
+	731983770	SFX_Dmg_StalactiteImpact_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0D\{0D6C03CD-8A92-F85F-0F6C-0BDFF13C3977}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Stalactite\RAND_Stalactite_Impact\SFX_Dmg_StalactiteImpact_02		8917
+	732629206	SFX_PutDown_Crystal_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BE\{BE4226C3-21CF-CC45-8FD0-BD8848932A5C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Crystal_Putdown\SFX_PutDown_Crystal_1		8531
+	733455160	VA_Mother Letter 584	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FC\{FC60DCCE-1192-05B8-2F45-87E2742E1984}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter5\VA_Mother Letter 584		70100
+	735409889	SFX_PianoNote_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E1\{E1368D76-6A6B-544F-9886-8A18578E8879}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PianoNote\SFX_PianoNote_02		158968
+	742322837	VA_Mother Letter 245	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\35\{35826F85-5635-7372-9DD4-49286170268E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter2\VA_Mother Letter 245		38867
+	742768450	VA_Mother Letter 472	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\95\{958576BB-1AAF-5F9B-782C-920BA345B678}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 472		11791
+	743995571	SFX_ExplosionSpell_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\80\{805FEC78-9B3F-94CC-4F37-F53F3E81BE6F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Sulfur\SFX_ExplosionSpell_03		42834
+	744220958	SFX_TotemSpell_DestroyCrunch	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2F\{2F54617B-E8C8-604D-0094-3B0BD6DD9FFA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TotemSpell\Destruction\SFX_TotemSpell_DestroyCrunch		10139
+	745885166	SFX_Wood_RunStep_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\87\{87ECCFF4-8622-A006-1A13-5999610B8CCB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_01		3477
+	750118493	SFX_CreepyPiano_15	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3F\{3F404FEE-4A9F-1142-4DBE-9D139C78759B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_CreepyPiano\SFX_CreepyPiano_15		49024
+	751329901	SFX_WoodAmbience_8	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B8\{B87F2813-13ED-3E1C-FC27-BC99487E5569}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_8		25945
+	753207651	SFX_Player_Breathing_Shiver_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\04\{043E1B4F-AA9E-3C26-D3EC-D69F9C38B338}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_ShiveryBreathing\SFX_Player_Breathing_Shiver_03		33029
+	754804727	VA_Mother Letter 361	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CB\{CB12DCC1-AAA9-2199-76BB-F3BCEE59316E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter3\VA_Mother Letter 361		70913
+	757097642	VA_Mother Letter 130	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DC\{DC0EA5DA-B077-79D3-03B3-050716E44382}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt1\VA_Mother Letter 130		50466
+	760616458	SFX_Book_FlipThrough_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FB\{FBD0B54B-0A6E-99E0-7D1F-B9E37015F285}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Flipthrough\SFX_Book_FlipThrough_01		33114
+	764169149	VA_What The Hell Was That05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B5\{B503F80E-D599-B645-1624-EB488FF33ADE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\What\VA_What The Hell Was That05		22526
+	765642095	SFX_Player_Grunts_Heavy_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C9\{C9B1E287-0607-7B06-364D-3448B73DF5BC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_HeavyGrunt\SFX_Player_Grunts_Heavy_04		6575
+	770780375	SFX_Smokebomb02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\17\{17D632FE-B409-A22F-ACFA-0FDD352B4868}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Smokebomb\SFX_Smokebomb02		91987
+	771824749	SFX_Footstep_Monster_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6A\{6A288100-7A24-F0CF-B285-DD803E78889B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_LightFootstep_Enemy\SFX_Footstep_Monster_06		10628
+	774350199	SFX_Monster_Croak_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EC\{EC991EA7-DD74-80EE-2C38-02251CC03FEC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\New Voice\Idle\Croak\SFX_Monster_Croak_01		42107
+	779347292	Gravel Footstep _1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7F\{7FA5C087-95EE-CB6D-9E8B-91616C9425A5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_GravelSteps_Walk\Gravel Footstep _1		6121
+	780705157	SFX_MetalSqueak_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9D\{9D6F817F-55D5-15F5-24B9-264CD3346141}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalSqueak\SFX_MetalSqueak_4		10125
+	781663639	SFX_Cloth_Sounds_9	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\51\{51838317-A7EF-2AF6-317C-83489F0F738D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Cloth\Cloth_Walking\SFX_Cloth_Sounds_9		20360
+	786854326	SFX_Key_Unlock_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\99\{99D5147E-8AB4-C8DB-00A7-0F712EB3DD70}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\KeySpell\RAND_KeySpell\SFX_Key_Unlock_01		11343
+	787561051	SFX_IceStep_Run_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\57\{5739F2FA-F296-299B-7762-3FCA129F72BE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_IceSteps_Run\SFX_IceStep_Run_04		5464
+	791732497	MUS_Lvl2_CaveIntro_Beat6_NoPerc_120BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D9\{D9AB1AEC-ECFD-D5E3-65CC-DF99EDF8990F}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_Lvl2_CaveIntro_Beat6\MUS_Lvl2_CaveIntro_Beat6_NoPerc_120BPM\MUS_Lvl2_CaveIntro_Beat6_NoPerc_120BPM		955966
+	793039338	MUS_Pursuit_Loop	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E9\{E97314F2-FFDF-EE92-05A6-228F4136B6DA}.wem		\Interactive Music Hierarchy\Default Work Unit\MSC_Pursuit\MPC_PursuitLoop\MSG_PursuitMusic_Loop\MUS_Pursuit_Loop		555046
+	794885496	SFX_PianoNote_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D5\{D5EB2390-57B0-BB24-B7BD-51458F7AEDFD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_PianoNote\SFX_PianoNote_03		180025
+	798796038	VA_Mother Letter 241	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8B\{8B32EFB8-ED0D-6ECA-B649-A3EF0C235B61}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter2\VA_Mother Letter 241		9057
+	802771798	SFX_MetalAmbience_Creak_7	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DA\{DACBFF6B-40AF-3D4E-0301-F38263E63841}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalCreak\SFX_MetalAmbience_Creak_7		28337
+	804452575	SFX_Player_Breathing_Strained_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B1\{B13D0F3A-38F1-DFD3-B0B9-15CFB53D508F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_05		27551
+	806109364	SFX_MetalSqueak_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AF\{AF7721C0-A0B0-E086-B503-04D034685C72}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalSqueak\SFX_MetalSqueak_2		9244
+	807920555	SFX_PickUp_Ore_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A3\{A36B0829-D6A0-D8CC-296E-48BEA49A5BB6}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Ore_Pickup\SFX_PickUp_Ore_1		12982
+	810730822	SFX_UIClicks01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F9\{F9200A9C-4415-EC79-4320-D4F3A719977E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\SFX_UIClicks01		15411
+	811389909	SFX_Ambience_Bass_14	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\02\{020F0626-40DD-E024-BE56-05313CFB6967}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_14		67800
+	814529471	SFX_Monster_Wail_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E6\{E683F1CC-3530-0A2D-E8EA-1F7305711E94}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\New Voice\Wail\SFX_Monster_Wail_02		28817
+	815775924	VA_Mother Letter 7114	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C4\{C406F5F8-5ECA-99C6-32B9-7C3FAA191CDB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter7\VA_Mother Letter 7114		40585
+	817059429	wetWalk3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\81\{81263AF7-817E-5C8A-B4F2-9DACB508F52A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WetSteps_Walk\wetWalk3		18043
+	817887958	SFX_WoodAmbience_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\27\{27E8018A-F985-250B-C3F8-878A484ABFBB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_1		27384
+	818961515	SFX_TotemSpell_Place_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7C\{7CC02453-EC8C-D6B5-DB59-3AE05447FC67}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TotemSpell\Destruction\RAND_TotemSpell_DestroyImpact\SFX_TotemSpell_Place_1		26371
+	821820431	SFX_Player_Breathing_Quick_08	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BF\{BFAF42C5-C04D-0FCF-012C-EDDA5DDAAC20}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_08		9959
+	823311046	VA_Mother Letter 696	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5B\{5B649137-EE69-DA49-85EE-253D4B086ABC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\VA_Mother Letter 696		64907
+	824328880	SFX_Wood_WalkStep_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EA\{EAFABB4D-35AB-E837-4D3E-71056E09723C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_03		4798
+	825472573	MUS_Lvl1_Beat4_78BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\24\{24C78197-AF3E-40C0-8304-3C2B0B38C230}.wem		\Interactive Music Hierarchy\Default Work Unit\MPC_Lvl1_Beat4\MUS_Lvl1_Beat4_78BPM\MUS_Lvl1_Beat4_78BPM		3677960
+	835956478	SFX_Putdown_Ash_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\16\{165E2ED0-730E-6C14-C0EF-CCA4C1CFE34B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Powder_Putdown\SFX_Putdown_Ash_2		11490
+	839389939	SFX_PickUp_Bone_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EE\{EE59BF68-18EF-D026-0602-ECFBBB94A4D2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Bone_Pickup\SFX_PickUp_Bone_3		11419
+	839732967	SFX_Monster_Roar_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\04\{04CBA513-33C9-E25B-C7EC-9ED45447C82F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Attacking\NormalRoar\SFX_Monster_Roar_02		14754
+	842560424	SFX_Player_Breathing_Strained_12	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4F\{4F65C344-E912-E92E-B8E7-1C582DEA6091}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_12		26497
+	842821477	VA_Mother Letter 357	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B8\{B8424963-E216-A63F-BA21-27E74F969673}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter3\VA_Mother Letter 357		40725
+	846027636	SFX_Putdown_Ash_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FC\{FCB938F7-D40E-579E-0397-164FA88AB55F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Powder_Putdown\SFX_Putdown_Ash_3		8204
+	847904332	SFX_Wood_WalkStep_08	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\38\{38E244B7-385E-17BD-BECA-58A79E090794}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_08		4562
+	848974233	SFX_Book_FlipThrough_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\41\{417AEE21-53ED-5910-B7EE-6850DBBD5F97}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Flipthrough\SFX_Book_FlipThrough_02		30703
+	851560130	SFX_Monster_Croak_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\98\{9841BAC9-7A69-5884-E4CF-45F213A92A31}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\New Voice\Idle\Croak\SFX_Monster_Croak_04		37806
+	852263603	SFX_Player_Breathing_Quick_11	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\94\{94C274C6-0A8B-BE2F-BE57-4869FB4DDF48}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_11		9857
+	853935199	Gravel Footstep _3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\93\{9371D06F-A27C-67BE-006C-C4DCD5F8B2EB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_GravelSteps_Run\Gravel Footstep _3		3459
+	854632349	SFX_IceStep_Walk_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CA\{CAEBEAFC-82F6-CB84-7D18-F33EAFFF9437}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_IceSteps_Walk\SFX_IceStep_Walk_03		9421
+	856287731	SFX_Footstep_Monster_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\16\{16456BB9-20D5-DEA8-770D-C31A4D9A564A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_HeavyFootstep_Enemy\SFX_Footstep_Monster_07		10374
+	856990686	SFX_CreepyPiano_18	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FA\{FAF818BB-DE27-D9CB-1561-C9CB3E870CF7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_CreepyPiano\SFX_CreepyPiano_18		65284
+	862568456	SFX_Soundwave04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9A\{9ABC08C6-9C6F-301F-763C-DBE01AB6D62D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Bone\SFX_Soundwave04		51426
+	864680083	SFX_Snow_Walk_Step06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\2A\{2A86EAB1-FCE1-BA87-D632-0C10ACADA6BA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step06		7937
+	865017386	SFX_Metal_walk_step07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D3\{D39FA473-86D2-D658-5E11-C92DA6CE07E4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_MetalSteps_Run\SFX_Metal_walk_step07		2467
+	870194363	SFX_Footstep_Monster_11	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C0\{C000E5FC-2C17-8D28-B5AD-690E107480C0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Monster Behind Wall\RAND_MuffledFootstep_Enemy\SFX_Footstep_Monster_11		5641
+	870360150	SFX_BreathOut_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B1\{B13EDCFA-E203-57E2-1F56-7584A3918F51}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathOut\SFX_BreathOut_02		5516
+	870972999	SFX_Player_Hmm_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C2\{C2AAB0E6-FA09-5535-D220-C3AFA74FDE32}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\RAND_Hmm\SFX_Player_Hmm_1		15369
+	871754856	SFX_CreepyPiano_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E9\{E9C14124-F36C-3072-5FA6-55F60CC396E0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_CreepyPiano\SFX_CreepyPiano_01		68120
+	875007179	SFX_Player_Breathing_Quick_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\66\{66D89AE7-22B2-7AEA-F64F-6C0AC23331DB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_02		9475
+	876292113	Lantern Squeaking ambience06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\41\{41BEFF52-FBA0-AF54-F5E4-4BD38F715DB3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\Lantern_Squeak\Lantern Squeaking ambience06		8538
+	879629790	SFX_WindIntro	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\67\{6705B950-444E-E92D-553B-00F9F820EE07}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\SFX_WindIntro		314006
+	879824042	SFX_BreathOut_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7A\{7A28EBDE-A05D-6332-9A2F-395E530AA70F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathOut\SFX_BreathOut_03		5233
+	883229727	SFX_Player_Grunts_Heavy_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\17\{17F7DD0F-0709-3617-EE0E-1FC667F33A56}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_HeavyGrunt\SFX_Player_Grunts_Heavy_01		8921
+	887011503	SFX_Player_Breathing_Nasal_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\5E\{5EB210F1-6507-1F13-450F-90BE3E9AE834}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_NasalBreathing\SFX_Player_Breathing_Nasal_04		13327
+	889019801	SFX_PutDown_Crystal_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\61\{611EBEBF-CEF7-E590-7C7D-132E893CBD4B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Crystal_Putdown\SFX_PutDown_Crystal_2		9678
+	890890437	SFX_TotemSpell_Place_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\07\{07017F0A-6AA4-EF70-1818-5BF593468593}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TotemSpell\Destruction\RAND_TotemSpell_DestroyImpact\SFX_TotemSpell_Place_2		15576
+	896411860	SFX_ImpactSound04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7A\{7A52A768-8C0C-81D5-89A2-63C16CFCE421}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Damage\RAND_Player_PhysicalImpact\SFX_ImpactSound04		5819
+	896554587	SFX_ImpactSound03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E9\{E99ACA78-8C6C-8E36-9565-DFDF73545296}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Damage\RAND_Player_PhysicalImpact\SFX_ImpactSound03		5336
+	896975841	SFX_IceAmbience_9	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DA\{DAA099BA-93DB-DC07-C29D-5242C335978E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_Ambience_Ice\RAND_Ambience_IceDrops\SFX_IceAmbience_9		466929
+	897908539	SFX_Ambience_Bass_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\47\{4752A582-D36E-0C38-CF9D-A82A26C6F09B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_LevelAmbience\RAND_Ambience_Bass\SFX_Ambience_Bass_09		64722
+	899986091	VA_Mother Letter 129	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\79\{7949BD2E-CB68-12C9-2DDC-99E137B68F02}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter1-Pt1\VA_Mother Letter 129		15003
+	901541057	VA_Mother Letter 698	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\27\{2719DB1E-C5A2-9ED0-7C4C-D6695B43B7CF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter6\VA_Mother Letter 698		19517
+	902648976	VA_Mother Letter 358	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F8\{F88AFF39-763B-D73F-9D04-90E12301F628}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter3\VA_Mother Letter 358		91558
+	903046693	SFX_Player_Grunts_Medium_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\01\{0183BFA3-3BC5-4DCA-0AB8-898CDCA15786}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_04		9216
+	903211194	SFX_Env_StalactiteCrumbling_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BB\{BBBF54AA-18D0-D2DA-23CE-ECBF8D88EEA4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Stalactite\SFX_Env_StalactiteCrumbling_01		109520
+	903360689	VA_Mother Letter 364	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6A\{6A29272A-4AE4-2FCC-F004-581F326C8488}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter3\VA_Mother Letter 364		20457
+	904614940	SFX_Snow_Walk_Step01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A3\{A30E27A2-E266-3AD0-5A60-8D505470C469}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step01		10135
+	905447594	SFX_Player_Sigh_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\68\{6854F846-8799-DE5A-F7C4-BD5A378EE107}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\RAND_Sigh\SFX_Player_Sigh_1		18948
+	905863085	SFX_Player_Death_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\93\{936A1421-2E63-B3F8-5EE8-1953165E08E7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Deaths\SC_Death\RAND_DeathCry\SFX_Player_Death_4		11691
+	906441892	SFX_Player_Breathing_Nasal_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EA\{EA97CC38-FA13-3D38-7469-740B45BA6E78}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_NasalBreathing\SFX_Player_Breathing_Nasal_07		13337
+	908265799	SFX_Ice_Putdown_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\DC\{DCEDBFC3-3A70-F4E5-98B4-361AFD230F8D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Ice_Putdown\SFX_Ice_Putdown_03		12664
+	909204425	VA_Interesting11	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A8\{A8DA77F1-8E0B-46B2-9658-D6CD041E4DCD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Lines\Interesting\VA_Interesting11		17461
+	910371282	SFX_Player_Grunts_Medium_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\95\{9521529D-7103-A847-4A1F-093972CC22B2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_05		12523
+	911362103	VA_Mother Letter 7108	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0A\{0A6D7BC9-5845-05CE-78B4-A8BAEB507FA3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter7\VA_Mother Letter 7108		19206
+	911728661	VA_Mother Letter 7115	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C7\{C7109CBD-5DDF-8B00-C3BE-EA312895F5DC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter7\VA_Mother Letter 7115		9773
+	915906957	SFX_Player_Breathing_Quick_07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\58\{58DE57D5-189C-CE75-DDEC-020D1FC5BD83}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_07		9987
+	916352809	SFX_TotemSpell_SonarHit	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\86\{86FF3137-AC6C-85D0-BC5B-44817274BF59}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TotemSpell\RAND_TotemSpell_SonarHit\SFX_TotemSpell_SonarHit		37452
+	916920602	SFX_IceAmbience_7	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\50\{50D4170E-9880-D00F-CAFB-CD9D92B7EF72}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_Ambience_Ice\RAND_Ambience_IceDrops\SFX_IceAmbience_7		512416
+	920297187	wetStep3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9A\{9A2ED51D-E1B2-9394-5EA3-9622134C75A5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WetSteps_Run\wetStep3		3430
+	923029752	SFX_Pickup_Ash_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FF\{FFF96983-9D80-5520-9E22-F133FCEA746B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Powder_Pickup\SFX_Pickup_Ash_4		2992
+	923190920	SFX_Wood_RunStep_10	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6E\{6E6DB3ED-3044-E45E-50CD-BA87C250E470}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_10		3912
+	923418134	SFX_Player_Breathing_Quick_10	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7A\{7A6DEAFB-0BC0-B450-2324-A7B45C1502DE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_10		9966
+	923730282	SFX_Potion_Tonic_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A1\{A1AE0477-9EED-B6A1-A800-32BA42E8E1F9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\TonicSpell\RAND_TonicSpell\SFX_Potion_Tonic_03		24956
+	924319270	VA_Mother Letter 7106	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\33\{334E31AD-D280-3E9A-449B-EB772BCB99FE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter7\VA_Mother Letter 7106		29219
+	926018058	SFX_Footstep_Monster_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\30\{3080FA49-1B23-C229-15DC-A940F80D7710}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_HeavyFootstep_Enemy\SFX_Footstep_Monster_02		11325
+	926102248	VA_Mother Letter 588	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\51\{51EEF72D-A93D-E8BE-AD56-9DFBCE489438}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter5\VA_Mother Letter 588		31570
+	932519168	SFX_ChainsRattling03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A8\{A862E3A7-5E2D-BED8-A03F-5B8D4AE2B5FD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\RAND_Modifier_Iron\SFX_ChainsRattling03		13160
+	935472450	SFX_Pickup_Ash_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\68\{68BA3EFC-FB93-1D8A-9372-E2D5F2A46AC0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Powder_Pickup\SFX_Pickup_Ash_3		4619
+	936924387	VA_Mother Letter 591	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9F\{9F3D6EE9-1AAC-F743-1A6A-58E5346548E5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter5\VA_Mother Letter 591		14071
+	940719030	SFX_Book_Close_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\73\{734EEDB4-A2C6-B17A-244D-C4E1292F9238}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Close\SFX_Book_Close_04		4907
+	942874770	SFX_Player_Breathing_Nasal_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C9\{C99B674B-65D5-355F-3BE2-7FEE6D250FF7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_NasalBreathing\SFX_Player_Breathing_Nasal_06		13452
+	945635296	VA_Mother Letter 251	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\64\{64124AE2-ABC4-37C7-09FB-2EAF91571C9D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter2\VA_Mother Letter 251		36949
+	951550373	SFX_Pickup_Plant_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\AC\{AC93D2BB-DFCA-91D3-7ECB-33709A99E8C3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Plant_Pickup\SFX_Pickup_Plant_5		5603
+	952075597	SFX_ExplosionSpell_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\29\{29C0C6C5-6E3D-F2F6-41C4-A0001A4D8171}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Sulfur\SFX_ExplosionSpell_02		45065
+	954428738	SFX_Metal_walk_step02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\7C\{7CC18757-A48E-E521-C54D-B8160567973B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_MetalSteps_Walk\SFX_Metal_walk_step02		3101
+	956439995	SFX_Player_Hmm_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\80\{80B9DBF4-A547-5063-5123-C1D03F84D30F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\RAND_Hmm\SFX_Player_Hmm_2		11480
+	956616717	SFX_Monster_Roar_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\9B\{9B0C78DB-F83C-D509-9C22-FEC41E3CBD2A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Attacking\NormalRoar\SFX_Monster_Roar_03		16150
+	958424150	SFX_WoodAmbience_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\37\{371F38AF-493C-EB30-78F2-F5C58785FB12}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_WoodCreakingAmbience\SFX_WoodAmbience_5		32708
+	959090117	SFX_Lantern_Burn_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\70\{70486DEA-4106-F4BA-3EB0-98A0CEB57F46}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\RAND_Lantern_Burn\SFX_Lantern_Burn_01		29228
+	959644408	SFX_Monster_Breathing_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\BB\{BBC248E6-934B-5863-6C3C-6D9FF010EBEC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Normal Breathing\SFX_Monster_Breathing_02		45803
+	962348374	SFX_Player_Grunts_Medium_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\86\{86818677-CC17-55B8-2AC9-EFDEDEACAA52}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_MediumGrunt\SFX_Player_Grunts_Medium_01		5173
+	962716048	SFX_Lantern_Cast	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\18\{18F84A68-F40F-7037-D643-47BD8A702426}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\SFX_Lantern_Cast		119765
+	964065823	SFX_Footstep_Monster_05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\71\{7144CAC8-AF8D-5D38-F198-9505DE3606AB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_HeavyFootstep_Enemy\SFX_Footstep_Monster_05		7734
+	966259333	VA_Mother Letter 476	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3A\{3A273B5B-8879-5210-5627-61C39C8C1677}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 476		83094
+	969875075	VA_Mother Letter 7111	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\44\{442952FD-8B2B-5A05-F6F0-3A52C7E4F4CB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter7\VA_Mother Letter 7111		74305
+	973198154	SFX_Pickup_Plant_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4C\{4CB87A7E-ACD5-B93C-A17C-73F382983725}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Plant_Pickup\SFX_Pickup_Plant_1		6060
+	973506360	SFX_Putdown_Plant_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C4\{C4348A6A-FFF8-5660-8FAE-52B85F5458C0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Plant_Putdown\SFX_Putdown_Plant_1		3416
+	973765740	SFX_Wood_RunStep_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\11\{11311AD9-35AD-0E4A-7BFD-5B461C09DC78}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_WoodSteps_Run\SFX_Wood_RunStep_06		3892
+	975228984	SFX_ImpactSound02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1F\{1F1847D7-4356-FD01-FA1E-C66EFE110740}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Damage\RAND_Player_PhysicalImpact\SFX_ImpactSound02		4211
+	978918092	SFX_PutDown_Ore_3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\56\{56AE704A-B157-306A-131B-FCCA1749616D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Ore_Putdown\SFX_PutDown_Ore_3		8352
+	983405192	SFX_WallBreak_Rock_5	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A9\{A9840620-FE6F-C72B-3C27-ACC4A45FF92D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\RAND_WallBreak_Rubble\SFX_WallBreak_Rock_5		23317
+	983597538	SFX_MetalAmbience_RoughScrape_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\6E\{6EB2D212-0760-752E-F2F4-8469B4A74560}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\RAND_MetalAmbience\RAND_MetalScrape\SFX_MetalAmbience_RoughScrape_4		36985
+	983624469	SFX_Snow_Walk_Step05	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EA\{EAB6D066-FB2D-42D9-CF35-AC32E6D775AE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_SnowSteps_Walk\SFX_Snow_Walk_Step05		11872
+	983703189	VA_Mother Letter 250	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\39\{39D153A0-732C-D4E2-2493-3FC3574D3CC7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter2\VA_Mother Letter 250		35812
+	987556662	SFX_PickUp_Ore_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\91\{91D47E79-1E59-5BD7-1665-E0FA1C2C8474}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Ore_Pickup\SFX_PickUp_Ore_2		10858
+	992336075	wetWalk2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\05\{057CF338-530B-5B15-D0F3-2A474F116C91}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WetSteps_Walk\wetWalk2		16022
+	994602417	SFX_Monster_Croak_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\23\{23CF66AA-F943-F737-4AEF-0AD462672497}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\New Voice\Idle\Croak\SFX_Monster_Croak_02		42374
+	995598612	Lantern Squeaking ambience03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4F\{4FA10505-996A-8D6D-6A4F-CDA80FE257C1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Lantern\Lantern_Squeak\Lantern Squeaking ambience03		9704
+	996328305	SFX_Pickup_Ash_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\64\{64B47213-B5E2-FE71-E712-D8EDCC351275}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Powder_Pickup\SFX_Pickup_Ash_2		3083
+	996769982	SFX_Book_PageTurn_2	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\EE\{EE536254-5595-6A59-EC95-89B85E5495CE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_PageTurn\SFX_Book_PageTurn_2		17406
+	999872422	SFX_Monster_Confused_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0B\{0B6ABA33-2DED-4CF4-9D3D-A58D61139648}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Confused\SFX_Monster_Confused_01		50214
+	1000470200	SFX_Snow_Walk_Step03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\35\{352C0B19-28AD-70A6-11EF-0548FC00B884}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_SnowSteps\SFX_Snow_Walk_Step03		9447
+	1000617132	SFX_Book_PageTurn_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\21\{21DD77F7-1841-62DB-A159-2613161B580A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_PageTurn\SFX_Book_PageTurn_4		16059
+	1005167369	SFX_Soundwave01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\8D\{8D17D952-F776-A504-B8F3-6E265400F23E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Bone\SFX_Soundwave01		51203
+	1008294528	VA_Mother Letter 590	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\B8\{B8DB829E-6626-AE82-F045-13BC273E5559}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter5\VA_Mother Letter 590		16968
+	1011360906	SFX_BeamofLight01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CB\{CB6F11F8-6FB4-A861-BA5F-1D51784BE923}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier2\SFX_BeamofLight01		28099
+	1015956567	SFX_Wood_WalkStep_09	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\0A\{0A6411AD-AA59-8396-7097-3736F1D14DB0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_WoodSteps_Walk\SFX_Wood_WalkStep_09		4336
+	1018182188	SFX_Player_Breathing_Strained_13	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\81\{81F4B882-E2AE-BE8B-0CCB-3AB1F656F2C5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_StrainedBreathing\SFX_Player_Breathing_Strained_13		25593
+	1019510227	SFX_Ice_Pickup_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\E7\{E73B5F83-ADD6-1645-9142-4D224C6C25AC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Pickup\RAND_Ice_Pickup\SFX_Ice_Pickup_02		10677
+	1021467671	SFX_Snow_Walk_Step07	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4A\{4AE1E7D9-E801-91A3-61B5-93903116CAC4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step07		6994
+	1026483490	SFX_Snow_Walk_Step011	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\99\{992F680A-8B8B-621C-CACE-285714EDE09E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step011		10406
+	1026750104	VA_Mother Letter 477	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\63\{63431A16-7EAC-0733-0776-97621315E11E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter4\VA_Mother Letter 477		24362
+	1032829695	SFX_CreepyPiano_16	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\11\{11543896-3324-6D11-2875-3EFA887A3B16}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Spotted\RAND_SpotMonster\RAND_SpotMonster_CreepyPiano\SFX_CreepyPiano_16		48856
+	1032934946	MUS_PursuitLoop_NoPercussion_74BPM	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C5\{C5EF92D3-7405-62AB-9ADE-60BA14A15F4B}.wem		\Interactive Music Hierarchy\Default Work Unit\MSC_Pursuit\MPC_PursuitLoop\MUS_PursuitLoop_NoPercussion_Intro\MUS_PursuitLoop_NoPercussion_74BPM		602099
+	1035221225	SFX_Player_Breathing_Shiver_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\FB\{FB08003F-6690-9C1C-16AA-8CE247C73703}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_ShiveryBreathing\SFX_Player_Breathing_Shiver_06		25798
+	1038151411	SFX_Book_FlipThrough_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\12\{121D4393-DC03-1EFA-0D49-8B9AC7AA6F01}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Flipthrough\SFX_Book_FlipThrough_03		25212
+	1039722596	SFX_Monster_Breathing_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\30\{300EBCE8-FACA-559D-9072-7B6A7941E9E8}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Normal Breathing\SFX_Monster_Breathing_03		17883
+	1039984515	SFX_SpellCastNodeRedo01_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\4A\{4A71ECFB-85E7-F93F-94B4-C543E7018384}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\RAND_Spellcasting_Node\SFX_SpellCastNodeRedo01_1		18639
+	1040307995	Heartbeat Medium	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\A5\{A5D5B26B-E6D3-3A3B-2C3D-6EDAB9152862}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Heartbeat\Heartbeat Medium		43155
+	1041329420	VA_Mother Letter 7109	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\3C\{3C68EB8E-4793-C684-9821-BCD3FC0761AC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter7\VA_Mother Letter 7109		59407
+	1047252835	VA_Mother Letter 479	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\07\{0706B1AD-FA3E-4E1B-DB3F-3DFF01990C7C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter4\VA_Mother Letter 479		31270
+	1049467968	SFX_Book_Writing_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1E\{1EB1FC43-FC19-879B-6D3B-D6CE5F4E4582}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Grimoire\RAND_Book_Writing\SFX_Book_Writing_01		23835
+	1049921810	SFX_Player_Breathing_Quick_06	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\52\{52EB6379-334E-D9EA-EA1F-3A42451953D2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\SW_Breath\RAND_QuickBreathing\SFX_Player_Breathing_Quick_06		9572
+	1050243447	SFX_PutDown_Bone_4	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\1C\{1CC3D837-73FD-8730-A239-8F9D2DA9D44A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Items\SW_Item_Putdown\RAND_Bone_Putdown\SFX_PutDown_Bone_4		10487
+	1052624097	VA_Mother Letter 7105	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C3\{C3DC60CF-ADBF-6116-C34A-04DD06F933F3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter7\VA_Mother Letter 7105		36182
+	1056674433	SFX_ChainsRattling04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\74\{74A37A3A-4BA2-F798-699F-1B1E5B60083A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Casting\Modifier1\RAND_Modifier_Iron\SFX_ChainsRattling04		13076
+	1059452795	SFX_Monster_Tired_01	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\25\{251EE7C2-4A28-3B93-5FAB-38A940DDEE7E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\OLD Voice\Breaths\Tired\SFX_Monster_Tired_01		47111
+	1061758385	SFX_Player_Breathing_Nasal_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\05\{057622B3-2EDF-8C35-9F51-65ED7DE11A9E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_NasalBreathing\SFX_Player_Breathing_Nasal_03		13702
+	1064681006	SFX_Footstep_Monster_04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\F4\{F455FF2D-A4B0-C3FF-C02F-6920AFE7F55D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Footsteps\RAND_LightFootstep_Enemy\SFX_Footstep_Monster_04		8440
+	1064927369	VA_Mother Letter 128	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\86\{8614641C-3E86-6F8E-AD6B-312F9AECE2FA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\TEMP Letters with Pauses\Letter1-Pt1\VA_Mother Letter 128		42128
+	1066839039	SFX_Snow_Walk_Step04	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\14\{144DE80C-A3E0-C069-986A-814CEA44FE55}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Running Footstep Types\RAND_SnowSteps_Run\SFX_Snow_Walk_Step04		9757
+	1068033840	SFX_BreathIn_02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\D0\{D0D155F5-9244-E86D-EE87-106EEDD375B0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Breathing\Breathing\RAND_BreathIn\SFX_BreathIn_02		5512
+	1068151463	SFX_Player_Grunts_Heavy_03	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\57\{5715F538-BF68-0DC4-5AE6-C8BBEBB0C116}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Player\Grunts\RAND_HeavyGrunt\SFX_Player_Grunts_Heavy_03		6634
+	1069176428	VA_Mother Letter 252	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\CE\{CE72A5D7-86EA-263F-C79C-EB4B408B8241}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Voice\Mother\Letter2\VA_Mother Letter 252		66159
+	1071644018	SFX_DoorLockFeedback02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\06\{068D1AF2-A84F-B3E6-B5C0-17B9C7FCFAA8}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Environment\Doors\RAND_LockedDoor\SFX_DoorLockFeedback02		11733
+	1072174194	SFX_HvacHum_1	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\98\{980D56D7-A38E-D4FB-C6F8-77582FC640B3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\SFX_HvacHum_1		370179
+	1072818268	SFX_Snow_Walk_Step02	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\C3\{C3B792B5-E440-25D9-F492-619C218E5116}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\UI\Intro\Intro_SnowSteps\SFX_Snow_Walk_Step02		10435
+	1073025286	Gravel Footstep _3	E:\SeniorProject\Shivery\Shivery_WwiseProject\.cache\17\{1751A73F-C29D-3534-58A3-DBFE43772B15}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Footsteps\Walking Footstep Types\RAND_GravelSteps_Walk\Gravel Footstep _3		5937
+

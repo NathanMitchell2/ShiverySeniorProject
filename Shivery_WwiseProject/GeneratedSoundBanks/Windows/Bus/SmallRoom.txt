@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2933838247	SmallRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\SmallRoom	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1551236760	Small_Wooden_Room1	Wwise Matrix Reverb			
+

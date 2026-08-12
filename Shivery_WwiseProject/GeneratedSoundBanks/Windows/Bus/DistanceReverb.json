@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2334881412",
+    "Type": "Bus",
+    "GUID": "{08B39826-FC4F-4288-A932-3C3FB7AEDAD5}",
+    "Language": "SFX",
+    "Hash": "{8556D5DC-4C6E-CB82-D0D7-631BC0E48A26}",
+    "ObjectPath": "DistanceReverb",
+    "ShortName": "DistanceReverb",
+    "Path": "Bus/DistanceReverb.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "2656259783",
+       "Name": "PA_Announcement1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\PA_Announcement1",
+       "GUID": "{65E0ACE4-B404-4485-87A4-5907277D9858}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "2334881412",
+      "Name": "DistanceReverb",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\DistanceReverb",
+      "GUID": "{08B39826-FC4F-4288-A932-3C3FB7AEDAD5}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2656259783"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B86B66F7-BB9A-6799-F904-D640FCA7D7F2}"
+ }
+}

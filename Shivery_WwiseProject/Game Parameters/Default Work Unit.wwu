@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8C823D24-2CEF-4B4A-93FE-95A00D1DC81A}" SchemaVersion="123">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{8C823D24-2CEF-4B4A-93FE-95A00D1DC81A}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="MasterSlider" ID="{C436BEC4-1914-403E-9AAC-2D924D131CB0}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="75"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="EnemiesSlider" ID="{5C64CEF4-5DD6-4116-AFD9-1D6A9415428D}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="EnvSlider" ID="{CB4F104C-F66F-48D8-8387-B614B766B3F4}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="MusicSlider" ID="{D9330FFB-09B9-4107-B960-6CCAD29A9734}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="PlayerSlider" ID="{ACDC51D3-01FC-43C1-859E-F9FE1535301B}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="VoicesSlider" ID="{4D211AD6-44EF-4506-874F-38F89A2D33A4}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="PlayerStamina" ID="{EB0D347C-35CE-4B0F-A898-DC7BC0862E62}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="BoneTonic" ID="{4B529FB9-49CA-4AA8-9506-D54D739CE267}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="FearLevel" ID="{15905683-6D47-4356-9D7D-46428CDCCD83}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="FlameStrength" ID="{A3416213-77D0-4480-A921-537ADDB9931C}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

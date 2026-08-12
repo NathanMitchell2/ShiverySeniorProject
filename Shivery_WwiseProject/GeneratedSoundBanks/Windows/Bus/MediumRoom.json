@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1245295233",
+    "Type": "Bus",
+    "GUID": "{EA852B04-3C61-49F0-BC36-CB566027C21A}",
+    "Language": "SFX",
+    "Hash": "{39848065-6626-27A8-2509-939BF5118ECD}",
+    "ObjectPath": "MediumRoom",
+    "ShortName": "MediumRoom",
+    "Path": "Bus/MediumRoom.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "1904434771",
+       "Name": "Medium_Room1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\Medium_Room1",
+       "GUID": "{71B802A7-03E2-4998-B241-B2B84FE9DDFF}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "1245295233",
+      "Name": "MediumRoom",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\MediumRoom",
+      "GUID": "{EA852B04-3C61-49F0-BC36-CB566027C21A}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "1904434771"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{05EC4616-13FA-DF5F-493C-BD2ECC60D92A}"
+ }
+}

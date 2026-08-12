@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3059984139",
+    "Type": "Bus",
+    "GUID": "{C34E9148-8E13-4A58-B390-4407C1687043}",
+    "Language": "SFX",
+    "Hash": "{32AEE620-F700-C311-87C1-F63D6FB9B759}",
+    "ObjectPath": "Tunnel",
+    "ShortName": "Tunnel",
+    "Path": "Bus/Tunnel.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "702543456",
+       "Name": "Tunnel1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\Tunnel1",
+       "GUID": "{CC44B890-9865-4157-965F-86FED27BC4C6}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "3059984139",
+      "Name": "Tunnel",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\Tunnel",
+      "GUID": "{C34E9148-8E13-4A58-B390-4407C1687043}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "702543456"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5F19F305-A4C5-6A28-A6CB-C88C60C51CF5}"
+ }
+}

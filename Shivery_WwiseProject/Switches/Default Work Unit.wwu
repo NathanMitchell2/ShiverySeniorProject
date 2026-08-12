@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D508EF7B-57C0-4995-9A59-71BE9D2E94D6}" SchemaVersion="123">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{D508EF7B-57C0-4995-9A59-71BE9D2E94D6}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="FootstepType" ID="{B0091B69-2896-4F9C-91AD-209E3CCB98D2}">
+					<ChildrenList>
+						<Switch Name="Metal_Switch" ID="{DD105531-902E-4CC3-B03B-47B03F23E713}"/>
+						<Switch Name="Snow_Switch" ID="{F068BAE6-FE4A-452B-9C91-CD3E35609AE4}"/>
+						<Switch Name="Gravel_Switch" ID="{E5B2D78E-DD94-4524-94A8-EB06F7007EE6}"/>
+						<Switch Name="Wood_Switch" ID="{523D4603-6C58-40D1-B939-DC4E19A1112D}"/>
+						<Switch Name="Ice_Switch" ID="{BA8822AC-E7DE-483B-BAA0-5ADBF75B07EF}"/>
+						<Switch Name="Wet_Switch" ID="{19FB631F-0807-42FF-9D20-FF26F18C8637}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Item1Type" ID="{C8FC5041-249A-4065-874C-33F0E6920A42}">
+					<ChildrenList>
+						<Switch Name="Bone_Switch1" ID="{31A7686B-3683-4C27-AF19-FC3189682D9A}"/>
+						<Switch Name="Obsidian_Switch1" ID="{CC494266-1065-4D07-940C-F793E74E8DEC}"/>
+						<Switch Name="Iron_Switch1" ID="{296BEA6A-916D-450F-B64F-9863F3098FB4}"/>
+						<Switch Name="Plant_Switch1" ID="{2002AC12-C47B-484D-8A67-B49B4020A88E}"/>
+						<Switch Name="Ice_Switch1" ID="{E6AC36BD-7D1D-4A25-96CA-15C616B5E92D}"/>
+						<Switch Name="Ash_Switch1" ID="{20B55C56-EC46-4684-8319-F5DA62B5D522}"/>
+						<Switch Name="Copper_Switch1" ID="{73565E21-F702-4816-828C-3852C8E29549}"/>
+						<Switch Name="Sulfur_Switch1" ID="{FD5C50C3-7053-4E00-B161-0E7686DE3465}"/>
+						<Switch Name="Quartz_Switch1" ID="{D9C046DA-72A3-4D3C-9B4A-C07AF22DD672}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="AmbienceType" ID="{831FDE59-BE88-4C42-81C1-A80DE66FBE53}">
+					<ChildrenList>
+						<Switch Name="IceAmbienceSw" ID="{8CF9302E-7EE0-410E-957F-4323E1603486}"/>
+						<Switch Name="WoodAmbienceSw" ID="{912BA582-752E-4D28-9B3D-06B1FCD62085}"/>
+						<Switch Name="MetalAmbienceSw" ID="{0C03F976-A18A-4603-AA80-23856971B378}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="BreathingType" ID="{8C03AB84-3E43-4495-B4BB-8FE995A2BC44}">
+					<ChildrenList>
+						<Switch Name="Gas" ID="{3CE95D1B-265F-4262-94BB-8BBDBBC186BD}"/>
+						<Switch Name="Cold" ID="{74E755E9-B2D6-43F6-A9F4-E9B4EEAB87F3}"/>
+						<Switch Name="Fear" ID="{480E4AD9-1ED8-44E2-84DC-715E74203D52}"/>
+						<Switch Name="Normal" ID="{F0D2D1FA-7694-46E4-A977-A537D62871B3}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Item2Type" ID="{1962428E-31AB-44FA-9AEF-9B31C0299651}">
+					<ChildrenList>
+						<Switch Name="Bone_Switch2" ID="{11FA9A01-82CF-431D-80DC-5BAB71E3CFC6}"/>
+						<Switch Name="Obsidian_Switch2" ID="{6D1FF3A8-8720-4B5A-963D-17979A8C91C0}"/>
+						<Switch Name="Iron_Switch2" ID="{578FE926-5306-4AFB-9343-64E6468D4380}"/>
+						<Switch Name="Plant_Switch2" ID="{3C6989BD-1FE5-4B9F-8D19-01300EB1601B}"/>
+						<Switch Name="Ice_Switch2" ID="{ED73D58E-63BE-4BDD-AB95-C46BC8A266D7}"/>
+						<Switch Name="Ash_Switch2" ID="{66E225BB-D73B-4D70-A05D-3809B658DB1A}"/>
+						<Switch Name="Copper_Switch2" ID="{E18532FC-0927-47D7-AD76-F13FBE96C018}"/>
+						<Switch Name="Sulfur_Switch2" ID="{B9AD9951-8A34-4B02-8BC5-7EF120F05C56}"/>
+						<Switch Name="Quartz_Switch2" ID="{7AED4CBA-50B1-4172-BDF8-2680C751870B}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

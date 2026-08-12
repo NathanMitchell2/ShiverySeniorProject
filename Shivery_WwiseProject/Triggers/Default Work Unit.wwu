@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E227266C-F56A-479D-8A15-FF324FEF2B9D}" SchemaVersion="123">
+	<Triggers>
+		<WorkUnit Name="Default Work Unit" ID="{E227266C-F56A-479D-8A15-FF324FEF2B9D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Trigger Name="EnhancedHearing" ID="{F7259438-4D26-433A-B6A6-49F184D1964C}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Triggers>
+</WwiseDocument>

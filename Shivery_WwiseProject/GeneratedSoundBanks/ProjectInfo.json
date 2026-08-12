@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "Shivery_WwiseProject",
+   "GUID": "{4D82B147-4436-4C7B-B18D-8409CC4CD4CA}",
+   "Generator": "2024.1.9.8920"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{883728E4-6FDD-4D41-AE58-1D3408FBA1D5}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{BCF2B3BA-4585-4F18-869D-F6C4EF20B023}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{B55B91C4-5244-8807-A4C1-EC3105037B10}"
+ }
+}

@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2334881412	DistanceReverb			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\DistanceReverb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	2656259783	PA_Announcement1	Wwise Matrix Reverb			
+

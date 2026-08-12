@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2D6D8A91-A815-40A2-81BB-9E7722866855}" SchemaVersion="123">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{2D6D8A91-A815-40A2-81BB-9E7722866855}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Cave1 SC Session" ID="{76288479-BE2E-4C96-9AB5-C576E28A3D3F}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="SFX_CaveDrops" ID="{CE2CD841-3599-4D57-9342-3100C7439E9E}" WorkUnitID="{48CC7E39-1C21-451F-A186-DD1529704F0B}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Attacking" ID="{F41C007F-ED82-42AE-848D-8BC398F8D588}" WorkUnitID="{48CC7E39-1C21-451F-A186-DD1529704F0B}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="SFX_FlowingWater_Clear_Loop_01" ID="{D7EFB5B2-5580-4DCC-9C2A-80DD75F130D9}" WorkUnitID="{48CC7E39-1C21-451F-A186-DD1529704F0B}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="SFX_LanternFire_Revisit" ID="{2D8814AE-94A5-498E-A601-7ADB939B9213}" WorkUnitID="{48CC7E39-1C21-451F-A186-DD1529704F0B}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="SFX_FlowingWater_Muffled_Loop" ID="{2AC79633-2573-4A2E-9F31-ABB74F9FA497}" WorkUnitID="{48CC7E39-1C21-451F-A186-DD1529704F0B}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Breaths" ID="{74980D50-BFE2-491C-924B-12DEBC5161BF}" WorkUnitID="{48CC7E39-1C21-451F-A186-DD1529704F0B}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="SW_Breath" ID="{8683A246-667D-47D8-8B5F-5CABE4F6C733}" WorkUnitID="{48CC7E39-1C21-451F-A186-DD1529704F0B}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Tutorial" ID="{6095B34B-3553-430D-9BAB-D1E8A3E66935}">
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9D7A8D25-3161-4DA3-B7DE-70397AB413C3}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{9D7A8D25-3161-4DA3-B7DE-70397AB413C3}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{25BC1A1E-890F-4F48-BDBA-774F597AC998}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F435B72D-2C33-4E42-9805-A9D4E386722B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music" ID="{1FCF9D3E-DD09-44FC-A900-6B9277008638}" WorkUnitID="{83BD0E60-9609-4F5C-AEFB-AD33DE59CA12}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI" ID="{7286C4CB-DA21-475A-9F77-AC194EE7D1DC}" WorkUnitID="{83BD0E60-9609-4F5C-AEFB-AD33DE59CA12}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MediumRoom" ID="{EA852B04-3C61-49F0-BC36-CB566027C21A}" WorkUnitID="{F435B72D-2C33-4E42-9805-A9D4E386722B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player" ID="{0E4B70B7-C785-4C2A-A0FB-72BF27063366}" WorkUnitID="{83BD0E60-9609-4F5C-AEFB-AD33DE59CA12}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Enemies" ID="{082444E0-F47A-4C9B-B2D1-7FF740DEC7E9}" WorkUnitID="{83BD0E60-9609-4F5C-AEFB-AD33DE59CA12}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambient" ID="{B1BE50D3-99A5-4EA9-AC65-A8C4AA8342BE}" WorkUnitID="{83BD0E60-9609-4F5C-AEFB-AD33DE59CA12}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

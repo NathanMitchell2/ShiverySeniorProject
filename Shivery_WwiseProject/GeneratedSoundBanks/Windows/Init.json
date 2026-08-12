@@ -1,0 +1,751 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Type": "User",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "{2A249FE2-4881-8BFF-3336-A1B19A1EC265}",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "48620415",
+       "Name": "Have_U_Ever_Been_Outside",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Exteriors\\Have_U_Ever_Been_Outside",
+       "GUID": "{FE29AE8D-FD86-4652-A95D-68D32F5760EC}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      },
+      {
+       "Id": "702543456",
+       "Name": "Tunnel1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\Tunnel1",
+       "GUID": "{CC44B890-9865-4157-965F-86FED27BC4C6}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      },
+      {
+       "Id": "1551236760",
+       "Name": "Small_Wooden_Room1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\Small_Wooden_Room1",
+       "GUID": "{F7CBE859-36A8-4174-B553-AE32A7FE95FA}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      },
+      {
+       "Id": "1904434771",
+       "Name": "Medium_Room1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\Medium_Room1",
+       "GUID": "{71B802A7-03E2-4998-B241-B2B84FE9DDFF}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      },
+      {
+       "Id": "2656259783",
+       "Name": "PA_Announcement1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\PA_Announcement1",
+       "GUID": "{65E0ACE4-B404-4485-87A4-5907277D9858}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      },
+      {
+       "Id": "2662085913",
+       "Name": "Large_Church1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\Large_Church1",
+       "GUID": "{9B6E8B78-EF8C-494C-AADA-D01CF51B5FAC}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      }
+     ],
+     "AudioDevices": [
+      {
+       "Id": "2317455096",
+       "Name": "No_Output",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\No_Output",
+       "GUID": "{1E9A4C78-E1DD-47A7-A665-2C6A23DB3B07}",
+       "LibName": "No Output",
+       "LibId": "11862023"
+      },
+      {
+       "Id": "3859886410",
+       "Name": "System",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\System",
+       "GUID": "{34E7BD66-D492-4824-8929-7D17D09786DC}",
+       "LibName": "System",
+       "LibId": "11403271"
+      }
+     ]
+    },
+    "Busses": [
+     {
+      "Id": "1069431850",
+      "Name": "Player",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Player",
+      "GUID": "{4E09831B-FCCB-4FBB-83E1-A2B7E9B57182}"
+     },
+     {
+      "Id": "1229948536",
+      "Name": "Environment",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Environment",
+      "GUID": "{7BA47F77-0BA6-485B-8CD2-A57C7D5EFD89}"
+     },
+     {
+      "Id": "1551306167",
+      "Name": "UI",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\UI",
+      "GUID": "{67935FD1-E879-4AED-8CF0-3D28582D5E9E}"
+     },
+     {
+      "Id": "2242381963",
+      "Name": "Enemies",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Enemies",
+      "GUID": "{67882CCB-18B4-4672-BA22-CA6DE972D88C}"
+     },
+     {
+      "Id": "2301521705",
+      "Name": "In-game sounds",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds",
+      "GUID": "{F2A75377-A86A-4FCD-90FD-3CE80E033B3E}"
+     },
+     {
+      "Id": "3313685232",
+      "Name": "Voices",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Voices",
+      "GUID": "{A45CE69B-B440-4A0D-9BBC-2839FFD4BBAE}"
+     },
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     },
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Music",
+      "GUID": "{375A4B7B-61D4-46F3-8DCA-D2CDB6E4C005}"
+     },
+     {
+      "Id": "3995960537",
+      "Name": "Main_Reverb",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb",
+      "GUID": "{91673197-4AD1-4BEF-8405-A52FBD44A644}"
+     }
+    ],
+    "AuxBusses": [
+     {
+      "Id": "144697359",
+      "Name": "Outdoor",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\Outdoor",
+      "GUID": "{A3D198B8-1B54-4609-A6E9-05DD4F1A2C7E}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "48620415"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "187046019",
+      "Name": "LargeRoom",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\LargeRoom",
+      "GUID": "{76FBB49B-E584-4CF4-8137-9DE6D692698A}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2662085913"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "1245295233",
+      "Name": "MediumRoom",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\MediumRoom",
+      "GUID": "{EA852B04-3C61-49F0-BC36-CB566027C21A}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "1904434771"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "2334881412",
+      "Name": "DistanceReverb",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\DistanceReverb",
+      "GUID": "{08B39826-FC4F-4288-A932-3C3FB7AEDAD5}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2656259783"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "2933838247",
+      "Name": "SmallRoom",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\SmallRoom",
+      "GUID": "{409ADE72-3C80-4E62-9CB8-45AE42F2140B}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "1551236760"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "3059984139",
+      "Name": "Tunnel",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\Tunnel",
+      "GUID": "{C34E9148-8E13-4A58-B390-4407C1687043}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "702543456"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "114172849",
+      "Name": "PlayerSlider",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\PlayerSlider",
+      "GUID": "{ACDC51D3-01FC-43C1-859E-F9FE1535301B}"
+     },
+     {
+      "Id": "150560468",
+      "Name": "MasterSlider",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\MasterSlider",
+      "GUID": "{C436BEC4-1914-403E-9AAC-2D924D131CB0}"
+     },
+     {
+      "Id": "1100084731",
+      "Name": "FearLevel",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\FearLevel",
+      "GUID": "{15905683-6D47-4356-9D7D-46428CDCCD83}"
+     },
+     {
+      "Id": "1589659809",
+      "Name": "FlameStrength",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\FlameStrength",
+      "GUID": "{A3416213-77D0-4480-A921-537ADDB9931C}"
+     },
+     {
+      "Id": "1718612694",
+      "Name": "BoneTonic",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\BoneTonic",
+      "GUID": "{4B529FB9-49CA-4AA8-9506-D54D739CE267}"
+     },
+     {
+      "Id": "2567062053",
+      "Name": "EnvSlider",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\EnvSlider",
+      "GUID": "{CB4F104C-F66F-48D8-8387-B614B766B3F4}"
+     },
+     {
+      "Id": "2819001335",
+      "Name": "VoicesSlider",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\VoicesSlider",
+      "GUID": "{4D211AD6-44EF-4506-874F-38F89A2D33A4}"
+     },
+     {
+      "Id": "2980161701",
+      "Name": "MusicSlider",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\MusicSlider",
+      "GUID": "{D9330FFB-09B9-4107-B960-6CCAD29A9734}"
+     },
+     {
+      "Id": "3599535653",
+      "Name": "PlayerStamina",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\PlayerStamina",
+      "GUID": "{EB0D347C-35CE-4B0F-A898-DC7BC0862E62}"
+     },
+     {
+      "Id": "3659922560",
+      "Name": "EnemiesSlider",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\EnemiesSlider",
+      "GUID": "{5C64CEF4-5DD6-4116-AFD9-1D6A9415428D}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "331200664",
+      "Name": "MonsterFinale",
+      "ObjectPath": "\\States\\Default Work Unit\\MonsterFinale",
+      "GUID": "{AE806664-EF98-44E1-9EA5-8FBEA169358A}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MonsterFinale\\None",
+        "GUID": "{B0EA800C-33FB-4257-A121-BD5BAE90CDA5}"
+       },
+       {
+        "Id": "1119997525",
+        "Name": "Vulnerable",
+        "ObjectPath": "\\States\\Default Work Unit\\MonsterFinale\\Vulnerable",
+        "GUID": "{DE2B579D-9174-4128-8033-E20572E83850}"
+       }
+      ]
+     },
+     {
+      "Id": "986683365",
+      "Name": "LifeStatus",
+      "ObjectPath": "\\States\\Default Work Unit\\LifeStatus",
+      "GUID": "{8FFE9E82-6B98-4799-8C51-121FF911D4DF}",
+      "States": [
+       {
+        "Id": "655265632",
+        "Name": "Alive",
+        "ObjectPath": "\\States\\Default Work Unit\\LifeStatus\\Alive",
+        "GUID": "{BE36859E-ECE5-464A-8FFE-4A99DF105FBA}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\LifeStatus\\None",
+        "GUID": "{F22B5D73-8B4E-41CC-AB9C-01F37DE481CD}"
+       },
+       {
+        "Id": "2044049779",
+        "Name": "Dead",
+        "ObjectPath": "\\States\\Default Work Unit\\LifeStatus\\Dead",
+        "GUID": "{CCFD04F5-99F4-48BD-9DA3-15B8AE5D5AC6}"
+       }
+      ]
+     },
+     {
+      "Id": "1118611586",
+      "Name": "FinalePursuit",
+      "ObjectPath": "\\States\\Default Work Unit\\FinalePursuit",
+      "GUID": "{EDAEB87A-9906-4136-BBD7-3C6B8400DB8D}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\FinalePursuit\\None",
+        "GUID": "{7E544B8F-ABA1-40D1-8925-4558A4605CEC}"
+       },
+       {
+        "Id": "1516571116",
+        "Name": "Chasing",
+        "ObjectPath": "\\States\\Default Work Unit\\FinalePursuit\\Chasing",
+        "GUID": "{9E47166B-84B6-4A72-80CD-054F8FE18673}"
+       }
+      ]
+     },
+     {
+      "Id": "1176052424",
+      "Name": "Location",
+      "ObjectPath": "\\States\\Default Work Unit\\Location",
+      "GUID": "{32D4E4EC-51DD-4EFF-84B1-5209B58A091C}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Location\\None",
+        "GUID": "{57605355-D194-4FEC-BD80-C67791BDCCC1}"
+       },
+       {
+        "Id": "4103860031",
+        "Name": "Indoors",
+        "ObjectPath": "\\States\\Default Work Unit\\Location\\Indoors",
+        "GUID": "{6675364A-D3CC-4778-87F8-8546F42131C0}"
+       },
+       {
+        "Id": "4122393694",
+        "Name": "Cave",
+        "ObjectPath": "\\States\\Default Work Unit\\Location\\Cave",
+        "GUID": "{467ABD6B-6503-432F-826D-8C204F13FA95}"
+       }
+      ]
+     },
+     {
+      "Id": "1853251439",
+      "Name": "SFX_Cast_Success_Fail",
+      "ObjectPath": "\\States\\Default Work Unit\\SFX_Cast_Success_Fail",
+      "GUID": "{656CC1CF-8686-4137-932B-7F7FB7700469}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\SFX_Cast_Success_Fail\\None",
+        "GUID": "{160786FE-12B8-47E3-8550-3097B0DDC665}"
+       },
+       {
+        "Id": "773660773",
+        "Name": "Alchemy_Cast_Fail_State",
+        "ObjectPath": "\\States\\Default Work Unit\\SFX_Cast_Success_Fail\\Alchemy_Cast_Fail_State",
+        "GUID": "{D7570369-C708-4E14-8D44-FC19CE853A02}"
+       },
+       {
+        "Id": "988453758",
+        "Name": "Alchemy_Cast_Success_State",
+        "ObjectPath": "\\States\\Default Work Unit\\SFX_Cast_Success_Fail\\Alchemy_Cast_Success_State",
+        "GUID": "{C3501723-8CD6-4E48-BA85-E5EB9A9CD6D9}"
+       }
+      ]
+     },
+     {
+      "Id": "2411238544",
+      "Name": "FootstepSpeed",
+      "ObjectPath": "\\States\\Default Work Unit\\FootstepSpeed",
+      "GUID": "{953EBB04-9997-4512-98FF-AC4CE5E73807}",
+      "States": [
+       {
+        "Id": "340271938",
+        "Name": "Walking",
+        "ObjectPath": "\\States\\Default Work Unit\\FootstepSpeed\\Walking",
+        "GUID": "{5878BA33-E104-484B-9196-9B505076931F}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\FootstepSpeed\\None",
+        "GUID": "{9160C541-95DC-437C-AD60-55001A79598D}"
+       },
+       {
+        "Id": "3863236874",
+        "Name": "Running",
+        "ObjectPath": "\\States\\Default Work Unit\\FootstepSpeed\\Running",
+        "GUID": "{F46FD623-C185-432B-8F83-E3107D6C9F5B}"
+       }
+      ]
+     },
+     {
+      "Id": "2806376803",
+      "Name": "CreditsCheck",
+      "ObjectPath": "\\States\\Default Work Unit\\CreditsCheck",
+      "GUID": "{69457C90-107E-4E7D-8950-296B24B9D2DC}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\CreditsCheck\\None",
+        "GUID": "{C5FFA3FF-BF84-43D6-8759-325CCAA9BA5A}"
+       },
+       {
+        "Id": "1162327563",
+        "Name": "BeatGame",
+        "ObjectPath": "\\States\\Default Work Unit\\CreditsCheck\\BeatGame",
+        "GUID": "{227CDCED-2C82-43A0-BDC2-E1A3049B707A}"
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "213426741",
+      "Name": "BreathingType",
+      "ObjectPath": "\\Switches\\Default Work Unit\\BreathingType",
+      "GUID": "{8C03AB84-3E43-4495-B4BB-8FE995A2BC44}",
+      "Switches": [
+       {
+        "Id": "579662040",
+        "Name": "Gas",
+        "ObjectPath": "\\Switches\\Default Work Unit\\BreathingType\\Gas",
+        "GUID": "{3CE95D1B-265F-4262-94BB-8BBDBBC186BD}"
+       },
+       {
+        "Id": "1160234136",
+        "Name": "Normal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\BreathingType\\Normal",
+        "GUID": "{F0D2D1FA-7694-46E4-A977-A537D62871B3}"
+       },
+       {
+        "Id": "3133847859",
+        "Name": "Fear",
+        "ObjectPath": "\\Switches\\Default Work Unit\\BreathingType\\Fear",
+        "GUID": "{480E4AD9-1ED8-44E2-84DC-715E74203D52}"
+       },
+       {
+        "Id": "3687161267",
+        "Name": "Cold",
+        "ObjectPath": "\\Switches\\Default Work Unit\\BreathingType\\Cold",
+        "GUID": "{74E755E9-B2D6-43F6-A9F4-E9B4EEAB87F3}"
+       }
+      ]
+     },
+     {
+      "Id": "450228145",
+      "Name": "AmbienceType",
+      "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceType",
+      "GUID": "{831FDE59-BE88-4C42-81C1-A80DE66FBE53}",
+      "Switches": [
+       {
+        "Id": "565737360",
+        "Name": "MetalAmbienceSw",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceType\\MetalAmbienceSw",
+        "GUID": "{0C03F976-A18A-4603-AA80-23856971B378}"
+       },
+       {
+        "Id": "603338232",
+        "Name": "IceAmbienceSw",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceType\\IceAmbienceSw",
+        "GUID": "{8CF9302E-7EE0-410E-957F-4323E1603486}"
+       },
+       {
+        "Id": "3440696196",
+        "Name": "WoodAmbienceSw",
+        "ObjectPath": "\\Switches\\Default Work Unit\\AmbienceType\\WoodAmbienceSw",
+        "GUID": "{912BA582-752E-4D28-9B3D-06B1FCD62085}"
+       }
+      ]
+     },
+     {
+      "Id": "716920490",
+      "Name": "Item2Type",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type",
+      "GUID": "{1962428E-31AB-44FA-9AEF-9B31C0299651}",
+      "Switches": [
+       {
+        "Id": "169304029",
+        "Name": "Obsidian_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Obsidian_Switch2",
+        "GUID": "{6D1FF3A8-8720-4B5A-963D-17979A8C91C0}"
+       },
+       {
+        "Id": "622692499",
+        "Name": "Quartz_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Quartz_Switch2",
+        "GUID": "{7AED4CBA-50B1-4172-BDF8-2680C751870B}"
+       },
+       {
+        "Id": "1034081060",
+        "Name": "Bone_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Bone_Switch2",
+        "GUID": "{11FA9A01-82CF-431D-80DC-5BAB71E3CFC6}"
+       },
+       {
+        "Id": "1739544319",
+        "Name": "Plant_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Plant_Switch2",
+        "GUID": "{3C6989BD-1FE5-4B9F-8D19-01300EB1601B}"
+       },
+       {
+        "Id": "1827191677",
+        "Name": "Sulfur_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Sulfur_Switch2",
+        "GUID": "{B9AD9951-8A34-4B02-8BC5-7EF120F05C56}"
+       },
+       {
+        "Id": "1862540949",
+        "Name": "Ice_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Ice_Switch2",
+        "GUID": "{ED73D58E-63BE-4BDD-AB95-C46BC8A266D7}"
+       },
+       {
+        "Id": "2146831336",
+        "Name": "Ash_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Ash_Switch2",
+        "GUID": "{66E225BB-D73B-4D70-A05D-3809B658DB1A}"
+       },
+       {
+        "Id": "2185109704",
+        "Name": "Iron_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Iron_Switch2",
+        "GUID": "{578FE926-5306-4AFB-9343-64E6468D4380}"
+       },
+       {
+        "Id": "2671852629",
+        "Name": "Copper_Switch2",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item2Type\\Copper_Switch2",
+        "GUID": "{E18532FC-0927-47D7-AD76-F13FBE96C018}"
+       }
+      ]
+     },
+     {
+      "Id": "1458816175",
+      "Name": "FootstepType",
+      "ObjectPath": "\\Switches\\Default Work Unit\\FootstepType",
+      "GUID": "{B0091B69-2896-4F9C-91AD-209E3CCB98D2}",
+      "Switches": [
+       {
+        "Id": "615013061",
+        "Name": "Metal_Switch",
+        "ObjectPath": "\\Switches\\Default Work Unit\\FootstepType\\Metal_Switch",
+        "GUID": "{DD105531-902E-4CC3-B03B-47B03F23E713}"
+       },
+       {
+        "Id": "2252631665",
+        "Name": "Wood_Switch",
+        "ObjectPath": "\\Switches\\Default Work Unit\\FootstepType\\Wood_Switch",
+        "GUID": "{523D4603-6C58-40D1-B939-DC4E19A1112D}"
+       },
+       {
+        "Id": "2350177422",
+        "Name": "Wet_Switch",
+        "ObjectPath": "\\Switches\\Default Work Unit\\FootstepType\\Wet_Switch",
+        "GUID": "{19FB631F-0807-42FF-9D20-FF26F18C8637}"
+       },
+       {
+        "Id": "2422663965",
+        "Name": "Ice_Switch",
+        "ObjectPath": "\\Switches\\Default Work Unit\\FootstepType\\Ice_Switch",
+        "GUID": "{BA8822AC-E7DE-483B-BAA0-5ADBF75B07EF}"
+       },
+       {
+        "Id": "2895086567",
+        "Name": "Snow_Switch",
+        "ObjectPath": "\\Switches\\Default Work Unit\\FootstepType\\Snow_Switch",
+        "GUID": "{F068BAE6-FE4A-452B-9C91-CD3E35609AE4}"
+       },
+       {
+        "Id": "3283618867",
+        "Name": "Gravel_Switch",
+        "ObjectPath": "\\Switches\\Default Work Unit\\FootstepType\\Gravel_Switch",
+        "GUID": "{E5B2D78E-DD94-4524-94A8-EB06F7007EE6}"
+       }
+      ]
+     },
+     {
+      "Id": "2185668417",
+      "Name": "Item1Type",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type",
+      "GUID": "{C8FC5041-249A-4065-874C-33F0E6920A42}",
+      "Switches": [
+       {
+        "Id": "169304030",
+        "Name": "Obsidian_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Obsidian_Switch1",
+        "GUID": "{CC494266-1065-4D07-940C-F793E74E8DEC}"
+       },
+       {
+        "Id": "622692496",
+        "Name": "Quartz_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Quartz_Switch1",
+        "GUID": "{D9C046DA-72A3-4D3C-9B4A-C07AF22DD672}"
+       },
+       {
+        "Id": "1034081063",
+        "Name": "Bone_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Bone_Switch1",
+        "GUID": "{31A7686B-3683-4C27-AF19-FC3189682D9A}"
+       },
+       {
+        "Id": "1739544316",
+        "Name": "Plant_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Plant_Switch1",
+        "GUID": "{2002AC12-C47B-484D-8A67-B49B4020A88E}"
+       },
+       {
+        "Id": "1827191678",
+        "Name": "Sulfur_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Sulfur_Switch1",
+        "GUID": "{FD5C50C3-7053-4E00-B161-0E7686DE3465}"
+       },
+       {
+        "Id": "1862540950",
+        "Name": "Ice_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Ice_Switch1",
+        "GUID": "{E6AC36BD-7D1D-4A25-96CA-15C616B5E92D}"
+       },
+       {
+        "Id": "2146831339",
+        "Name": "Ash_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Ash_Switch1",
+        "GUID": "{20B55C56-EC46-4684-8319-F5DA62B5D522}"
+       },
+       {
+        "Id": "2185109707",
+        "Name": "Iron_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Iron_Switch1",
+        "GUID": "{296BEA6A-916D-450F-B64F-9863F3098FB4}"
+       },
+       {
+        "Id": "2671852630",
+        "Name": "Copper_Switch1",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Item1Type\\Copper_Switch1",
+        "GUID": "{73565E21-F702-4816-828C-3852C8E29549}"
+       }
+      ]
+     }
+    ],
+    "AcousticTextures": [
+     {
+      "Id": "787898836",
+      "Name": "Snow",
+      "ObjectPath": "\\Virtual Acoustics\\Default Work Unit\\Snow",
+      "GUID": "{FADDB1E0-D95C-4F23-A61A-9F13FD7A9603}",
+      "Properties": [
+       {
+        "Name": "AbsorptionLow",
+        "Type": "Real32",
+        "Value": "39"
+       },
+       {
+        "Name": "AbsorptionMidLow",
+        "Type": "Real32",
+        "Value": "15"
+       },
+       {
+        "Name": "AbsorptionMidHigh",
+        "Type": "Real32",
+        "Value": "0"
+       },
+       {
+        "Name": "AbsorptionHigh",
+        "Type": "Real32",
+        "Value": "0"
+       },
+       {
+        "Name": "Scattering",
+        "Type": "Real32",
+        "Value": "0"
+       }
+      ]
+     },
+     {
+      "Id": "2058049674",
+      "Name": "Wood",
+      "ObjectPath": "\\Virtual Acoustics\\Default Work Unit\\Wood",
+      "GUID": "{7EB4C5ED-2468-417D-BA95-6C40440CE186}",
+      "Properties": [
+       {
+        "Name": "AbsorptionLow",
+        "Type": "Real32",
+        "Value": "70"
+       },
+       {
+        "Name": "AbsorptionMidLow",
+        "Type": "Real32",
+        "Value": "45"
+       },
+       {
+        "Name": "AbsorptionMidHigh",
+        "Type": "Real32",
+        "Value": "10"
+       },
+       {
+        "Name": "AbsorptionHigh",
+        "Type": "Real32",
+        "Value": "0"
+       },
+       {
+        "Name": "Scattering",
+        "Type": "Real32",
+        "Value": "0"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{31AD3A5C-0EF6-D6D6-8987-49286E4FAF36}"
+ }
+}

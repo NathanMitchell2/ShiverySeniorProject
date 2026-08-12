@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	3059984139	Tunnel			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\Tunnel	
+
+Effect plug-ins	ID	Name	Type				Notes
+	702543456	Tunnel1	Wwise Matrix Reverb			
+

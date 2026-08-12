@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FD1AEFFB-40F3-4673-A28C-141E80716296}" SchemaVersion="123">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{FD1AEFFB-40F3-4673-A28C-141E80716296}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="Main Mixing" ID="{F9AA3051-D8EE-4BE8-82BD-AF68CDC3F4A6}">
+					<ObjectList>
+						<ObjectRef Name="Main_Reverb" ID="{91673197-4AD1-4BEF-8405-A52FBD44A644}" WorkUnitID="{F435B72D-2C33-4E42-9805-A9D4E386722B}"/>
+						<ObjectRef Name="Enemies" ID="{67882CCB-18B4-4672-BA22-CA6DE972D88C}" WorkUnitID="{F435B72D-2C33-4E42-9805-A9D4E386722B}"/>
+						<ObjectRef Name="Environment" ID="{7BA47F77-0BA6-485B-8CD2-A57C7D5EFD89}" WorkUnitID="{F435B72D-2C33-4E42-9805-A9D4E386722B}"/>
+						<ObjectRef Name="Music" ID="{375A4B7B-61D4-46F3-8DCA-D2CDB6E4C005}" WorkUnitID="{F435B72D-2C33-4E42-9805-A9D4E386722B}"/>
+						<ObjectRef Name="Player" ID="{4E09831B-FCCB-4FBB-83E1-A2B7E9B57182}" WorkUnitID="{F435B72D-2C33-4E42-9805-A9D4E386722B}"/>
+						<ObjectRef Name="Voices" ID="{A45CE69B-B440-4A0D-9BBC-2839FFD4BBAE}" WorkUnitID="{F435B72D-2C33-4E42-9805-A9D4E386722B}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	187046019	LargeRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\LargeRoom	
+
+Effect plug-ins	ID	Name	Type				Notes
+	2662085913	Large_Church1	Wwise Matrix Reverb			
+

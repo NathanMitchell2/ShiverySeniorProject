@@ -1,0 +1,70 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	331200664	MonsterFinale			\Default Work Unit\MonsterFinale	
+	986683365	LifeStatus			\Default Work Unit\LifeStatus	
+	1118611586	FinalePursuit			\Default Work Unit\FinalePursuit	
+	1176052424	Location			\Default Work Unit\Location	
+	1853251439	SFX_Cast_Success_Fail			\Default Work Unit\SFX_Cast_Success_Fail	
+	2411238544	FootstepSpeed			\Default Work Unit\FootstepSpeed	
+	2806376803	CreditsCheck			\Default Work Unit\CreditsCheck	
+
+State	ID	Name	State Group			Notes
+	748895195	None	MonsterFinale			
+	1119997525	Vulnerable	MonsterFinale			
+	655265632	Alive	LifeStatus			
+	748895195	None	LifeStatus			
+	2044049779	Dead	LifeStatus			
+	748895195	None	FinalePursuit			
+	1516571116	Chasing	FinalePursuit			
+	748895195	None	Location			
+	4103860031	Indoors	Location			
+	4122393694	Cave	Location			
+	748895195	None	SFX_Cast_Success_Fail			
+	773660773	Alchemy_Cast_Fail_State	SFX_Cast_Success_Fail			
+	988453758	Alchemy_Cast_Success_State	SFX_Cast_Success_Fail			
+	340271938	Walking	FootstepSpeed			
+	748895195	None	FootstepSpeed			
+	3863236874	Running	FootstepSpeed			
+	748895195	None	CreditsCheck			
+	1162327563	BeatGame	CreditsCheck			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	114172849	PlayerSlider			\Default Work Unit\PlayerSlider	
+	150560468	MasterSlider			\Default Work Unit\MasterSlider	
+	787898836	Snow			\Default Work Unit\Snow	
+	2058049674	Wood			\Default Work Unit\Wood	
+	2567062053	EnvSlider			\Default Work Unit\EnvSlider	
+	2819001335	VoicesSlider			\Default Work Unit\VoicesSlider	
+	2980161701	MusicSlider			\Default Work Unit\MusicSlider	
+	3659922560	EnemiesSlider			\Default Work Unit\EnemiesSlider	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1069431850	Player			\Default Work Unit\Master Audio Bus\In-game sounds\Player	
+	1229948536	Environment			\Default Work Unit\Master Audio Bus\In-game sounds\Environment	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\UI	
+	2242381963	Enemies			\Default Work Unit\Master Audio Bus\In-game sounds\Enemies	
+	2301521705	In-game sounds			\Default Work Unit\Master Audio Bus\In-game sounds	
+	3313685232	Voices			\Default Work Unit\Master Audio Bus\In-game sounds\Voices	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\In-game sounds\Music	
+	3995960537	Main_Reverb			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	144697359	Outdoor			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\Outdoor	
+	187046019	LargeRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\LargeRoom	
+	1245295233	MediumRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\MediumRoom	
+	2334881412	DistanceReverb			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\DistanceReverb	
+	2933838247	SmallRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\SmallRoom	
+	3059984139	Tunnel			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\Tunnel	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	702543456	Tunnel1	Wwise Matrix Reverb			
+	1551236760	Small_Wooden_Room1	Wwise Matrix Reverb			
+	1904434771	Medium_Room1	Wwise Matrix Reverb			
+	2656259783	PA_Announcement1	Wwise Matrix Reverb			
+	2662085913	Large_Church1	Wwise Matrix Reverb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

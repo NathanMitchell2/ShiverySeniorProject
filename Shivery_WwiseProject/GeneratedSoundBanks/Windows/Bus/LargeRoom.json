@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "187046019",
+    "Type": "Bus",
+    "GUID": "{76FBB49B-E584-4CF4-8137-9DE6D692698A}",
+    "Language": "SFX",
+    "Hash": "{ABD9BBBB-B307-9849-2F94-E1CB38CDDDA7}",
+    "ObjectPath": "LargeRoom",
+    "ShortName": "LargeRoom",
+    "Path": "Bus/LargeRoom.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "2662085913",
+       "Name": "Large_Church1",
+       "ObjectPath": "\\Effects\\Factory Effects\\Matrix Reverb\\Large_Church1",
+       "GUID": "{9B6E8B78-EF8C-494C-AADA-D01CF51B5FAC}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "187046019",
+      "Name": "LargeRoom",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\In-game sounds\\Main_Reverb\\LargeRoom",
+      "GUID": "{76FBB49B-E584-4CF4-8137-9DE6D692698A}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2662085913"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A610FA33-C787-DBCA-40DF-0B6DD16ED9E4}"
+ }
+}

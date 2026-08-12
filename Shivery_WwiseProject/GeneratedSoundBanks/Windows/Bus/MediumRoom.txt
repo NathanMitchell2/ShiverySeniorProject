@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1245295233	MediumRoom			\Default Work Unit\Master Audio Bus\In-game sounds\Main_Reverb\MediumRoom	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1904434771	Medium_Room1	Wwise Matrix Reverb			
+

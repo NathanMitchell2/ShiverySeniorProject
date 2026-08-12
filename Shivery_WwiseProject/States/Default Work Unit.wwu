@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{19FBCBF9-D33F-4688-AA5E-0C91DAC431FC}" SchemaVersion="123">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{19FBCBF9-D33F-4688-AA5E-0C91DAC431FC}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="SFX_Cast_Success_Fail" ID="{656CC1CF-8686-4137-932B-7F7FB7700469}">
+					<ChildrenList>
+						<State Name="None" ID="{160786FE-12B8-47E3-8550-3097B0DDC665}"/>
+						<State Name="Alchemy_Cast_Success_State" ID="{C3501723-8CD6-4E48-BA85-E5EB9A9CD6D9}"/>
+						<State Name="Alchemy_Cast_Fail_State" ID="{D7570369-C708-4E14-8D44-FC19CE853A02}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="FootstepSpeed" ID="{953EBB04-9997-4512-98FF-AC4CE5E73807}">
+					<ChildrenList>
+						<State Name="None" ID="{9160C541-95DC-437C-AD60-55001A79598D}"/>
+						<State Name="Walking" ID="{5878BA33-E104-484B-9196-9B505076931F}"/>
+						<State Name="Running" ID="{F46FD623-C185-432B-8F83-E3107D6C9F5B}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="LifeStatus" ID="{8FFE9E82-6B98-4799-8C51-121FF911D4DF}">
+					<ChildrenList>
+						<State Name="None" ID="{F22B5D73-8B4E-41CC-AB9C-01F37DE481CD}"/>
+						<State Name="Alive" ID="{BE36859E-ECE5-464A-8FFE-4A99DF105FBA}"/>
+						<State Name="Dead" ID="{CCFD04F5-99F4-48BD-9DA3-15B8AE5D5AC6}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="MonsterFinale" ID="{AE806664-EF98-44E1-9EA5-8FBEA169358A}">
+					<ChildrenList>
+						<State Name="None" ID="{B0EA800C-33FB-4257-A121-BD5BAE90CDA5}"/>
+						<State Name="Vulnerable" ID="{DE2B579D-9174-4128-8033-E20572E83850}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="FinalePursuit" ID="{EDAEB87A-9906-4136-BBD7-3C6B8400DB8D}">
+					<ChildrenList>
+						<State Name="None" ID="{7E544B8F-ABA1-40D1-8925-4558A4605CEC}"/>
+						<State Name="Chasing" ID="{9E47166B-84B6-4A72-80CD-054F8FE18673}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Location" ID="{32D4E4EC-51DD-4EFF-84B1-5209B58A091C}">
+					<ChildrenList>
+						<State Name="None" ID="{57605355-D194-4FEC-BD80-C67791BDCCC1}"/>
+						<State Name="Indoors" ID="{6675364A-D3CC-4778-87F8-8546F42131C0}"/>
+						<State Name="Cave" ID="{467ABD6B-6503-432F-826D-8C204F13FA95}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="CreditsCheck" ID="{69457C90-107E-4E7D-8950-296B24B9D2DC}">
+					<ChildrenList>
+						<State Name="None" ID="{C5FFA3FF-BF84-43D6-8759-325CCAA9BA5A}"/>
+						<State Name="BeatGame" ID="{227CDCED-2C82-43A0-BDC2-E1A3049B707A}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>
